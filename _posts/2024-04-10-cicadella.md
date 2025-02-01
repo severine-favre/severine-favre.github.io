@@ -6,19 +6,12 @@ date: 2024-10-04
 tags: [Cicadelle, Languedoc-Roussillon, Pyrénées-Orientales, Corse]
 ---
 
-# La cicadelle « africaine » a été détectée dans les vignes du Roussillon
-
 Une nouvelle cicadelle verte a été détectée dans le vignoble des Pyrénées-Orientales. Le ravageur remonte vers le nord de l'Europe depuis le Maghreb. Les dégâts peuvent aller jusqu'à une défoliation précoce.
-
-**Tags:** Cicadelle, Languedoc-Roussillon, Pyrénées-Orientales, Corse
 
 ![La cicadelle africaine](https://ibp.info6tm.fr/api/v1/files/66feb52b99d67d09e569d058/methodes/pag_article/image.jpg)
 
 *La cicadelle africaine a été détectée pendant les vendanges 2024 dans les Pyrénées-Orientales. En Corse, le ravageur émergent est présent sur l'île depuis 2023.*  
 © CA66
-
-**Par :** Séverine Favre  
-**Publié le :** 04.10.2024
 
 ## Introduction
 
@@ -52,8 +45,6 @@ Les conseillers s'interrogent dès à présent sur les moyens de lutte. Les solu
 > — Éric Noémie
 
 Et il se pourrait que les Pyrénées-Orientales et la Corse ne soient pas les seuls départements touchés. Des prélèvements ont été réalisés sur d'autres vignobles méditerranéens.
-
-**Séverine Favre**
 
 ## Dans les Pyrénées-Orientales, parlez de vos symptômes !
 
