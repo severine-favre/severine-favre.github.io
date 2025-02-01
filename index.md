@@ -3,7 +3,7 @@ layout: default
 title: Homepage
 ---
 
-<h1>Latest Posts</h1>
+<h1>Derniers Articles</h1>
 
 <ul>
   {% for post in site.posts %}
@@ -14,4 +14,3 @@ title: Homepage
   {% endfor %}
 </ul>
 
-it works!
