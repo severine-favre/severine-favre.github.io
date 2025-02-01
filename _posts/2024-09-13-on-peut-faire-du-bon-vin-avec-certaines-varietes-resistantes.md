@@ -73,4 +73,3 @@ Le domaine de l’Isle Saint-Pierre est équipé pour l’expérimentation de no
 
 ---
 
-**© DR**
