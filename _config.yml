@@ -1,5 +1,5 @@
 # theme: jekyll-theme-minimal
-plugins: [jekyll-remote-theme]
+plugins: [jekyll-remote-theme, jekyll-include-cache]
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 title: Severine Favre
 description: Page web personnelle
