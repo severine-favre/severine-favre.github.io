@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: mmistakes/minimal-mistakes@4.26.2
 title: Severine Favre
 description: Page web personnelle
 
