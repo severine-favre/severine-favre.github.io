@@ -3,7 +3,7 @@ layout: default
 title: Homepage
 ---
 
-<h1>Selection d'articles</h1>
+<h1>Sélection d'articles</h1>
 
 <ul>
   {% for post in site.posts %}
