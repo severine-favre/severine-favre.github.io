@@ -12,7 +12,7 @@ title: Quand les coopératives passent au solaire
 
 Elles ont du soleil, elles ont des toitures, elles ont des factures. Pour de plus en plus de caves coopératives languedociennes, l’énergie photovoltaïque devient une évidence. L’autoconsommation aussi. La cave Héraclès dans le Gard et celle de Cap Leucate dans l’Aude illustrent une tendance de territoire.
 
-![](https://ibp.info6tm.fr/api/v1/files/66865bb4a0301a68d252ab78/methodes/pag_article/image.jpg)
+![](/assets/46964854ca24f6a12c7c39a238f761e6.jpg)
 
 Dans l’Aude, la coopérative des Vignobles de Cap Leucate va équiper les toitures de plusieurs sites avec des centrales photovoltaïques. 
 

@@ -6,7 +6,7 @@ tags: []
 title: '"Le coût d''installation du solaire va continuer de baisser"'
 ---
 
-![](https://ibp.info6tm.fr/api/v1/files/6527a2379b55f95d290091ab/methodes/pag_article/image.jpg)
+![](/assets/615fcc2a2cd9902ade54ab039b456387.jpg)
 
 ![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 
@@ -20,7 +20,7 @@ Certains pays européens comme l’Allemagne, l’Italie ou l’Espagne ont déj
 
 La France est aujourd’hui en retard par rapport à ces pays et par rapport à ses propres objectifs. Les raisons sont multiples mais se résument à **un cadre beaucoup trop rigide** et à un manque de mobilisation des différents acteurs.
 
-![](https://ibp.info6tm.fr/api/v1/files/6527a2379ecb783d965361ba/methodes/article_small/image.png)
+![](/assets/9afd65aa44029bdddbe0eaa72a33f5ba.png)
 
 **Enerplan a récemment publié un plan d’urgence solaire. Quelles sont les solutions proposées par les professionnels français de l'énergie solaire ?******
 

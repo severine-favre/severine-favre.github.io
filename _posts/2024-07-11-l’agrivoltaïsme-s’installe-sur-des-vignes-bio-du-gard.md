@@ -12,7 +12,7 @@ title: L’agrivoltaïsme s’installe sur des vignes bio du Gard
 
 Cinq hectares de vignes certifiées bio vont être recouverts par des panneaux solaires mobiles bifaciaux dans le Gard. 
 
-![agrivoltaïsme sur vigne](https://ibp.info6tm.fr/api/v1/files/6686627188d4382ba3775da7/methodes/pag_article/image.jpg)
+![agrivoltaïsme sur vigne](/assets/0549c16cbb8108ba49f2546761b9ea62.jpg)
 
 Un nouveau projet d'agrivoltaïsme sur vigne est validé dans le Gard.
 

@@ -9,7 +9,7 @@ tags:
 title: L’autofertilité des sols s'entretient aussi avec les engrais verts
 ---
 
-![Photo : DR](https://ibp.info6tm.fr/api/v1/files/6527be82bb61203a6064f4fd/methodes/pag_article/image.jpg)
+![Photo : DR](/assets/148f15645cb8078643cf73e1567084b8.jpg)
 
 ![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 
@@ -70,11 +70,11 @@ Les mettre dans un verre d’eau placé dans une pièce de vie. Si au bout de di
 TEST DE GERMINATION   
 Avant d’implanter les engrais verts, en cas d’utilisation de grains de consommation et/ou d’un vieux lot de semences certifiées, il est conseillé de tester le taux de germination. Pour chaque espèce, prendre 100 graines. Les placer sur un papier absorbant toujours humide, dans une pièce noire à une température de 20-25 °C. Compter le nombre de graines germées au bout d’une semaine. Si le taux est inférieur à 80 %, Éric Maille et Thibaut Déplanche conseillent d’échanger ou de vendre les graines à un éleveur qui s’en servira pour les rations de ses animaux. 
 
-![](https://ibp.info6tm.fr/api/v1/files/6527be82d8efeb329131dd60/methodes/article_small/image.png)
+![](/assets/dc0537117c94439d3e51cd1c13103c67.png)
 
 Article paru dans Viti 444 de juillet 
 
-![](https://ibp.info6tm.fr/api/v1/files/6527be1d22e47601a45c10a1/methodes/article_small/image.png) -août 2019
+![](/assets/3f13445321a474828d44ae546013c5a5.png) -août 2019
 
 Dossier
 

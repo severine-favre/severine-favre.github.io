@@ -319,8 +319,10 @@ def main():
     # Set up command-line argument parsing
     parser = argparse.ArgumentParser(description="Fetch a URL and extract the <section> with class 'article' using Firefox.")
     parser.add_argument('url', nargs='+', type=str, help="The URL to fetch and extract the article section from.")
-    parser.add_argument('-p', '--posts-directory', type=str, required=True, help="where to put the resulting markdown")
-    parser.add_argument('-a', '--assets-directory', type=str, required=True, help="where to put the assets")        
+    parser.add_argument('-p', '--posts-directory', type=str, default="_posts",
+                        required=True, help="where to put the resulting markdown")
+    parser.add_argument('-a', '--assets-directory', type=str, default="assets",
+                        required=True, help="where to put the assets")        
     
     # Parse the command-line arguments
     args = parser.parse_args()

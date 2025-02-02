@@ -9,7 +9,7 @@ tags:
 title: « Ma dernière plantation de vigne est protégée par des ombrières »
 ---
 
-![](https://ibp.info6tm.fr/api/v1/files/6527a1b7fa8ae15efe50879a/methodes/pag_article/image.jpg)
+![](/assets/40ce3bbe3635a71b37f2fba4b4e3fb1f.jpg)
 
 ![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 

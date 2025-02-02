@@ -11,7 +11,7 @@ title: « Le semis direct donne de bons résultats dans mes vignes »
 
 Sur le [domaine familial du Clos d’Elle](https://www.leclosdelle.com), Mathieu Bousquet s’est récemment lancé dans les couverts végétaux. Sa technique se précise avec une montée en puissance du semis direct et du paillage.
 
-![](https://ibp.info6tm.fr/api/v1/files/6527a099dd03433eb835382c/methodes/pag_article/image.jpg)
+![](/assets/cb61da032d634ae7c934015aa7dd54f1.jpg)
 
 Mathieu bousquet : « Le semis direct donne de bons résultats dans mes vignes. »
 
@@ -23,7 +23,7 @@ Depuis trois ans, **Mathieu Bousquet s’est lancé dans la mise en place de cou
 
 Pour semer les couverts, Mathieu Bousquet a investi dans **un semoir de la marque Guttler.** «  _C’est un outil qui accepte tous les types de mélanges grâce à sa double trémie de deux fois 100 litres. Il peut faire du semis à la volée ou enterré. Tout est mécanique, les réglages concernant la densité de semis sont très faciles à faire. Il m’a coûté 15.000 euros, sur lesquels j’ai bénéficié d’[aides PCAE](https://www.tema-agriculture-terroirs.fr/mon-viti/vie-de-lentreprise/les-conditions-des-pcae-2018-sont-connues-857414.php)_. »
 
-![](http://ibp-prod.info6tm.fr/api/v1/images/view/6527a099c2eab00874259087/back_office)
+![](/assets/93f1cfb7d266d284a4073129278a5d78.jpg)
 
 ### Avec ou sans travail du sol
 
