@@ -6,7 +6,7 @@ title: Homepage
 <h1>Derniers Articles</h1>
 
 <ul>
-  {% for post in site.posts reversed %}
+  {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
