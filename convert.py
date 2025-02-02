@@ -296,7 +296,7 @@ def main():
             markdown_post = add_excerpt_separator(markdown_post)
             
             # Write the Markdown post to the specified target directory with the correct filename
-            print(markdown_post)
+            # print(markdown_post)
             post_file_path = write_jekyll_post(markdown_post, args.posts_directory)
 
             # Print the file path where the post is saved

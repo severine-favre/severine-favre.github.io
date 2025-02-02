@@ -20,7 +20,7 @@ Dans l’Aude, la coopérative des Vignobles de Cap Leucate va équiper les toit
 
 _© Vignobles de Cap Leucate_
 
-![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+
 
 Avec plus de 300 jours de soleil en moyenne par an, **l'Occitanie est la région la plus ensoleillée** de France. En 2023, par exemple, le département de l'Hérault a observé 2.700 heures d'ensoleillement, contre une moyenne nationale de 2.000 heures. Les structures viticoles sont naturellement de plus en plus nombreuses à valoriser cette énergie renouvelable.
 

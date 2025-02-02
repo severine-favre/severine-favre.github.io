@@ -89,7 +89,9 @@ def download_images_in_markdown(markdown_content, base_url, download_dir):
             # Make the absolute URL to the image file in the download directory
             local_image_url = os.path.join(base_url, download_dir, os.path.basename(local_image_path)).replace(os.sep, '/')
             return f"![{alt_text}]({local_image_url})"
-        return match.group(0)
+        else:
+            # drop unresolved images
+            return ""
     
     # Replace all image links in the Markdown content
     modified_markdown = re.sub(image_pattern, replace_image_link, markdown_content)

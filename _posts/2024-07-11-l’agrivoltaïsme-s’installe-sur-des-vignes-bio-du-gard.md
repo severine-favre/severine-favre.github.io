@@ -20,7 +20,7 @@ Un nouveau projet d'agrivoltaïsme sur vigne est validé dans le Gard.
 
 _© Sun'Agri_
 
-![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+
 
 Jean-Fred Coste, viticulteur bio et ancien président de la cave coopérative gardoise Héraclès, et son fils Silvan souhaitent faire installer des **panneaux photovoltaïques mobiles** sur un îlot de **5 hectares**. Le projet agrivoltaïque dit de « La Croix de fer », situé sur la commune de Vestric-et-Candiac (30), sera construit et exploité par la société Sunti en partenariat avec Sun’Agri.
 

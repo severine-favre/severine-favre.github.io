@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ![](/assets/40ce3bbe3635a71b37f2fba4b4e3fb1f.jpg)
 
 
-<!--more-->![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+<!--more-->
 
 En partenariat avec Ombrea et TotalEnergies, Jean-Philippe Rives a installé, sur une petite parcelle de 1 500 m² de vigne, des ombrières solaires dynamiques. Il profite de ce dispositif expérimental pour tester un nouvel itinéraire de production à haut potentiel de rendement.
 

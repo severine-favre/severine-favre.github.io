@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 ![](/assets/9135aba511d3f888b66d70011b0a6e8f.jpg)
 
 
-<!--more-->![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+<!--more-->
 
 La viticulture régénérative, ou régénératrice, regroupe un ensemble de techniques permettant de séquestrer du carbone dans les sols viticoles. Derrière ce terme, émergeant dans le vocabulaire de la filière, on retrouve les bases d’autres courants techniques basés sur des sols vivants. La couverture du sol par les plantes, la fertilisation organique, le pastoralisme, l’absence de labour sont les clés de voûte de la démarche à portée internationale.
 
