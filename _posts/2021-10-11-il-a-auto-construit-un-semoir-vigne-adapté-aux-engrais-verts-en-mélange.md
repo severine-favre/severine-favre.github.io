@@ -7,11 +7,13 @@ tags:
 - 'Enherbement '
 - Semoir
 title: Il a auto-construit un semoir vigne adapté aux engrais verts en mélange
+excerpt_separator: <!--more-->
 ---
 
 ![](/assets/476f39815020fbcdd6e6644d58da2b4c.jpg)
 
-![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+
+<!--more-->![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 
 Pour maximiser la biomasse produite par ses engrais verts, Mickaël Sire, vigneron dans les Pyrénées-Orientales, mise notamment sur le surdosage, sur les amendements et sur un semoir autoconstruit adapté à son mélange de semences.
 

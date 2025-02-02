@@ -7,11 +7,13 @@ tags:
 - Fertilité
 - Sol
 title: L’autofertilité des sols s'entretient aussi avec les engrais verts
+excerpt_separator: <!--more-->
 ---
 
 ![Photo : DR](/assets/148f15645cb8078643cf73e1567084b8.jpg)
 
-![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+
+<!--more-->![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 
 Féverole, avoine, moutarde, phacélie et autres engrais verts fleurissent dans un nombre de plus en plus important de parcelles de vigne, et ce, dans tous les vignobles de l’Hexagone. Thibaut Déplanche, ingénieur agronome conseil chez Celesta-Lab, et Éric Maille, conseiller viticole d’AgroBio Périgord, analysent en écho les avantages, mais aussi les limites des engrais verts sur le sol et sur la vigne. 
 

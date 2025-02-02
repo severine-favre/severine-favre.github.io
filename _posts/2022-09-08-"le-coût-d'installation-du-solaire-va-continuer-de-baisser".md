@@ -4,11 +4,13 @@ date: '2022-09-08'
 layout: post
 tags: []
 title: '"Le coût d''installation du solaire va continuer de baisser"'
+excerpt_separator: <!--more-->
 ---
 
 ![](/assets/615fcc2a2cd9902ade54ab039b456387.jpg)
 
-![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
+
+<!--more-->![](/css/img/logos-categorie/logos-mini/grey/img-viti-grey.svg)
 
 Les coopératives et domaines qui installent des panneaux photovoltaïques sur leurs bâtiments sont de plus en plus nombreux. Chaque nouvelle installation rapproche la France de ses objectifs ambitieux mais pas irréalisables à moyen terme. Richard Loyen, délégué général d’Enerplan, le syndicat des professionnels français de l'énergie solaire, fait le point.
 
