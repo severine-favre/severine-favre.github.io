@@ -214,11 +214,12 @@ def extract_article_section(html):
     else:
         return None
 
+
 import os
 import re
 import hashlib
 import requests
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 from pathlib import Path
 
 def get_md5_checksum(content):
@@ -234,6 +235,7 @@ def download_images_in_markdown(markdown_content, base_url, download_dir):
     """
     Downloads images from the markdown content and rewrites image links to point to the local directory.
     The downloaded image filenames will be based on their MD5 checksum.
+    Links in the Markdown will be absolute URLs.
 
     :param markdown_content: The Markdown content as a string.
     :param base_url: The base URL from where the images will be downloaded (for relative URLs).
@@ -258,7 +260,7 @@ def download_images_in_markdown(markdown_content, base_url, download_dir):
         """
         # If the URL is relative, convert it to an absolute URL using the base URL
         if not image_url.startswith('http'):
-            image_url = os.path.join(base_url, image_url)
+            image_url = urljoin(base_url, image_url)
         
         # Download the image content
         try:
@@ -301,8 +303,8 @@ def download_images_in_markdown(markdown_content, base_url, download_dir):
         
         # If the image was downloaded successfully, replace the URL in the Markdown content
         if local_image_path:
-            # Make the relative path to the image file in the download directory
-            local_image_url = os.path.join(download_dir, os.path.basename(local_image_path)).replace(os.sep, '/')
+            # Make the absolute URL to the image file in the download directory
+            local_image_url = os.path.join(base_url, download_dir, os.path.basename(local_image_path)).replace(os.sep, '/')
             return f"![{alt_text}]({local_image_url})"
         return match.group(0)
     
@@ -310,8 +312,6 @@ def download_images_in_markdown(markdown_content, base_url, download_dir):
     modified_markdown = re.sub(image_pattern, replace_image_link, markdown_content)
     
     return modified_markdown
-
-
 
 
 
@@ -345,7 +345,7 @@ def main():
             # Convert the cleaned HTML and metadata to a Jekyll post (Markdown)
             markdown_post = convert_to_jekyll_post(metadata)
 
-            markdown_post = download_images_in_markdown(markdown_post, "http://localhost", args.assets_directory)
+            markdown_post = download_images_in_markdown(markdown_post, "/", args.assets_directory)
             
             # Write the Markdown post to the specified target directory with the correct filename
             post_file_path = write_jekyll_post(markdown_post, args.posts_directory)
