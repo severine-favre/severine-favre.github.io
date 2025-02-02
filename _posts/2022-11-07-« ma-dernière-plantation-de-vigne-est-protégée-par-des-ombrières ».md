@@ -13,10 +13,11 @@ excerpt_separator: <!--more-->
 ![](/assets/40ce3bbe3635a71b37f2fba4b4e3fb1f.jpg)
 
 
-<!--more-->
 
 En partenariat avec Ombrea et TotalEnergies, Jean-Philippe Rives a installé, sur une petite parcelle de 1 500 m² de vigne, des ombrières solaires dynamiques. Il profite de ce dispositif expérimental pour tester un nouvel itinéraire de production à haut potentiel de rendement.
 
+
+<!--more-->
 Six rangées d’**ombrières photovoltaïques** ont pris place cet automne sur le domaine de Rivals dans l’Aude. Dessous, six rangs de vigne et trois rangs de grenadier. Juste à côté, une parcelle identique, mais totalement exposée aux éléments. Ces deux fois 1 500 m² de cultures sont des démonstrateurs, qui seront suivis pendant plusieurs années par l’IFV. Mais Jean-Philippe Rives, le vigneron propriétaire des jeunes vignes plantées en 2022, est confiant : _« La technologie est récente, mais je compte profiter de ce dispositif pionnier pour tester de nouvelles voix de production. La vigne, du merlot équipé de goutte-à-goutte, sera palissée en double cordon sur 4 étages de production. Je vise un rendement de 200 hl/ha. Et les pieds devraient être recépés au bout de 15-20 ans. Le changement climatique va modifier le paysage des cultures languedociennes. Il faut voir plus loin que la vigne. La grenade est une piste de diversification qui se construit avec d’autres producteurs locaux. »_
 
 ### La vigne avant l’énergie

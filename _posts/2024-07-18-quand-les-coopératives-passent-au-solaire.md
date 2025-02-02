@@ -16,6 +16,7 @@ Elles ont du soleil, elles ont des toitures, elles ont des factures. Pour de plu
 ![](/assets/46964854ca24f6a12c7c39a238f761e6.jpg)
 <!--more-->
 
+
 Dans l’Aude, la coopérative des Vignobles de Cap Leucate va équiper les toitures de plusieurs sites avec des centrales photovoltaïques. 
 
 _© Vignobles de Cap Leucate_

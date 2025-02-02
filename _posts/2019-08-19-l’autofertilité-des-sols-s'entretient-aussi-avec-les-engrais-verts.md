@@ -3,7 +3,7 @@ author: Séverine Favre
 date: '2019-08-19'
 layout: post
 tags:
-- 'Enherbement '
+- Enherbement
 - Fertilité
 - Sol
 title: L’autofertilité des sols s'entretient aussi avec les engrais verts
@@ -13,10 +13,11 @@ excerpt_separator: <!--more-->
 ![Photo : DR](/assets/148f15645cb8078643cf73e1567084b8.jpg)
 
 
-<!--more-->
 
 Féverole, avoine, moutarde, phacélie et autres engrais verts fleurissent dans un nombre de plus en plus important de parcelles de vigne, et ce, dans tous les vignobles de l’Hexagone. Thibaut Déplanche, ingénieur agronome conseil chez Celesta-Lab, et Éric Maille, conseiller viticole d’AgroBio Périgord, analysent en écho les avantages, mais aussi les limites des engrais verts sur le sol et sur la vigne. 
 
+
+<!--more-->
 **Avant d’entrer dans le vif du sujet, pouvez-vous nous dire ce que vous entendez l’un et l’autre par « engrais verts » ?**
 
 [**Thibaut Déplanche :**](https://celesta-lab.fr) Les engrais verts appartiennent à la famille des couverts végétaux. C’est **une modalité d’enherbement de l’espace interrang** , au même titre que l’enherbement naturel permanent. Généralement, l’implantation d’engrais verts a une **visée fertilisante**.  

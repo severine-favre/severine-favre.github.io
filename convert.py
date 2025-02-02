@@ -41,7 +41,7 @@ def clean_and_extract_metadata(input_html: str) -> dict:
     
     # Extract post tags under <a> tags with class "tag"
     for tag in soup.find_all('a', class_='tag'):
-        metadata['tags'].append(tag.get_text())
+        metadata['tags'].append(tag.get_text().strip())
 
     # Extract post author under <strong> tag inside <div class="meta">
     meta_div = soup.find('div', class_='meta')
@@ -215,48 +215,53 @@ def extract_article_section(html):
         return None
 
 
-import re    
-def add_excerpt_separator(markdown: str) -> str:
-    """
-    Adds an excerpt separator `<!--more-->` after the first paragraph or image in the markdown.
-    It also adds `excerpt_separator: <!--more-->` to the front matter.
+import re
 
-    :param markdown: The input markdown string.
-    :return: The markdown string with the excerpt separator and front matter added.
-    """
-    # Check if there is any front matter (starts with "---" and ends with "---")
-    front_matter_match = re.match(r"^---\n(.*?)\n---\n", markdown, re.DOTALL)
+def insert_excerpt_separator(content):
+    # Regular expression to find the front matter (usually enclosed with '---')
+    front_matter_pattern = re.compile(r"^---\s*(.*?)\s*---", re.DOTALL)
+
+    # Check if front matter exists
+    match = front_matter_pattern.match(content)
+    if not match:
+        raise ValueError("Front matter not found.")
+
+    # Extract the front matter and the rest of the content
+    front_matter = match.group(1)
+    body_content = content[match.end():].lstrip()  # Remove the front matter and whitespace after it
+
+    # Add 'excerpt_separator: <!--more-->' to the front matter
+    front_matter += "\nexcerpt_separator: <!--more-->"
+
+    # Regular expression for detecting paragraphs
+    # This matches blocks of text separated by at least one blank line,
+    # and ensures it's not an image or an empty paragraph.
+    paragraph_pattern = re.compile(r"^(?!\!\[)(?!\s*$).+?(\n\s*\n|$)", re.DOTALL | re.MULTILINE)
+
+    # Regular expression for detecting images
+    image_pattern = re.compile(r"!\[.*?\]\(.*?\)")  # Image is any markdown image syntax ![alt](url)
+
+    # Find the first image (if any)
+    first_image = image_pattern.search(body_content)
+
+    # Find the first paragraph (if any)
+    first_paragraph = paragraph_pattern.search(body_content)
+
+    # Insert <!--more--> after the last of the first paragraph or image
+    if first_image and (not first_paragraph or first_image.start() > first_paragraph.start()):
+        insert_position = first_image.end()
+    elif first_paragraph:
+        insert_position = first_paragraph.end()
+    else:
+        insert_position = 0  # Fallback in case there's no paragraph or image
+
+    # Insert the <!--more--> tag in the content after the selected element
+    body_content = body_content[:insert_position] + "\n<!--more-->\n" + body_content[insert_position:]
+
+    # Rebuild the final content with the modified front matter and body
+    final_content = f"---\n{front_matter}\n---\n{body_content}"
     
-    # If front matter exists, we need to add the separator to the front matter
-    if front_matter_match:
-        front_matter = front_matter_match.group(1)
-        front_matter = front_matter + "\nexcerpt_separator: <!--more-->"
-        
-        # Rebuild the markdown with updated front matter
-        markdown = f"---\n{front_matter}\n---\n" + markdown[front_matter_match.end():]
-    else:
-        # If no front matter, simply add the excerpt separator at the start
-        markdown = f"---\nexcerpt_separator: <!--more-->\n---\n" + markdown
-
-    # Find the first paragraph or image
-    first_paragraph_match = re.search(r'^\s*#[^\n]*\n|\n\n.*?\n\n', markdown)  # Detects first paragraph
-    first_image_match = re.search(r'!\[.*?\]\(.*?\)', markdown)  # Detects first image
-
-    # If we found both, insert the separator after the last of them
-    if first_paragraph_match and first_image_match:
-        first_to_insert = max(first_paragraph_match.end(), first_image_match.end())
-    elif first_paragraph_match:
-        first_to_insert = first_paragraph_match.end()
-    elif first_image_match:
-        first_to_insert = first_image_match.end()
-    else:
-        first_to_insert = 0
-
-    # Insert the separator after the appropriate location
-    markdown = markdown[:first_to_insert] + "\n<!--more-->" + markdown[first_to_insert:]
-
-    return markdown
-
+    return final_content
 
 def main():
     # Set up command-line argument parsing
@@ -293,7 +298,7 @@ def main():
             from assets import download_images_in_markdown
             markdown_post = download_images_in_markdown(markdown_post, "/", args.assets_directory)
 
-            markdown_post = add_excerpt_separator(markdown_post)
+            markdown_post = insert_excerpt_separator(markdown_post)
             
             # Write the Markdown post to the specified target directory with the correct filename
             # print(markdown_post)

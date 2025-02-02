@@ -16,6 +16,7 @@ Cinq hectares de vignes certifiées bio vont être recouverts par des panneaux s
 ![agrivoltaïsme sur vigne](/assets/0549c16cbb8108ba49f2546761b9ea62.jpg)
 <!--more-->
 
+
 Un nouveau projet d'agrivoltaïsme sur vigne est validé dans le Gard.
 
 _© Sun'Agri_

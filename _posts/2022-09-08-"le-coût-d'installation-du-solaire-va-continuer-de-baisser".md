@@ -10,10 +10,11 @@ excerpt_separator: <!--more-->
 ![](/assets/615fcc2a2cd9902ade54ab039b456387.jpg)
 
 
-<!--more-->
 
 Les coopératives et domaines qui installent des panneaux photovoltaïques sur leurs bâtiments sont de plus en plus nombreux. Chaque nouvelle installation rapproche la France de ses objectifs ambitieux mais pas irréalisables à moyen terme. Richard Loyen, délégué général d’Enerplan, le syndicat des professionnels français de l'énergie solaire, fait le point.
 
+
+<!--more-->
 **En avril 2020, le Gouvernement français a publié sa nouvelle programmation pluriannuelle de l'énergie. L’objectif sur le solaire y est de 20 gigawatts (GW) d’ici 2023. Est-il tenable ?**
 
 Richard Loyen: Fin 2021, en France, le niveau de raccordement pour l’électricité solaire était de 13 GW. La croissance moyenne annuelle est de un gigawatt, hormis en 2021 avec un niveau record de raccordement de 2,5 GW. Néanmoins, même si l’on maintient ce rythme sur 2022 et 2023, **la France ne pourra pas atteindre l’objectif fixé par le Gouvernement.**

@@ -4,7 +4,7 @@ date: '2021-10-11'
 layout: post
 tags:
 - Engrais vert
-- 'Enherbement '
+- Enherbement
 - Semoir
 title: Il a auto-construit un semoir vigne adapté aux engrais verts en mélange
 excerpt_separator: <!--more-->
@@ -13,10 +13,11 @@ excerpt_separator: <!--more-->
 ![](/assets/476f39815020fbcdd6e6644d58da2b4c.jpg)
 
 
-<!--more-->
 
 Pour maximiser la biomasse produite par ses engrais verts, Mickaël Sire, vigneron dans les Pyrénées-Orientales, mise notamment sur le surdosage, sur les amendements et sur un semoir autoconstruit adapté à son mélange de semences.
 
+
+<!--more-->
 ![Le semoir à dents est bien adapté au semis de grosses graines, type féverole. Avec une vitesse d’avancement de 3 à 4 km/ha, il est possible de semer 4 ha/jour.](/assets/fb94fc3c901fd5c6b1b891206dae5021.jpg) Dans les vignes du [Domaine des Schistes](https://domainedesschistes.com) à Estagel (66) au pied des Pyrénées, les **engrais verts** ne font pas de vieilles nervures ! Dès le mois de mars, si le début du printemps s’annonce sec, tous les couverts sont détruits. Les bois de taille et l’enherbement temporaire présents dans tous les rangs sont broyés simultanément.  
 « Ici, il pleut en moyenne 400 mm/an. Dès le début du printemps, le sol peut être asséché par un couvert bien développé. La vigne se retrouve en stress hydrique, concurrencée par les engrais verts. Les suivis réalisés au sein du [GIEE Les couvreurs de vigne](https://rd-agri.fr/detail/PROJET/collectifs_agroecologie_18agiocc_098), auquel j’appartiens, l’ont montré. Notre expérience depuis dix ans l’a confirmé. **Il faut détruire tôt pour bloquer l’évaporation du couvert végétal**. Rouler le couvert plus tard dans la saison n’est pas une technique de destruction adaptée à nos objectifs. Avec le rouleau, les plantes pincées jeunes perdent en vigueur, mais continuent de se développer. Le système racinaire puise encore de l’eau ; trop pour les réserves présentes dans nos sols. En 2016, nous en avons fait les frais. Durant cette année particulièrement sèche, les parcelles avec des engrais verts roulés tardivement nous ont fait perdre 50 % de rendement. Quand on sait que notre rendement moyen est de 30 hl/ha, il n’est pas surprenant que nous ayons changé notre fusil d’épaule dès l’année suivante. »
 

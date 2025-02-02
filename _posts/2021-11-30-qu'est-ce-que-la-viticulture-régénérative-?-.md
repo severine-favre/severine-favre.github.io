@@ -8,7 +8,7 @@ tags:
 - Matière organique
 - Changement climatique
 - Pâturage
-- 'Compost '
+- Compost
 - Viticulture régénérative
 title: 'Qu''est-ce que la viticulture régénérative ? '
 excerpt_separator: <!--more-->
@@ -17,10 +17,11 @@ excerpt_separator: <!--more-->
 ![](/assets/9135aba511d3f888b66d70011b0a6e8f.jpg)
 
 
-<!--more-->
 
 La viticulture régénérative, ou régénératrice, regroupe un ensemble de techniques permettant de séquestrer du carbone dans les sols viticoles. Derrière ce terme, émergeant dans le vocabulaire de la filière, on retrouve les bases d’autres courants techniques basés sur des sols vivants. La couverture du sol par les plantes, la fertilisation organique, le pastoralisme, l’absence de labour sont les clés de voûte de la démarche à portée internationale.
 
+
+<!--more-->
 Emprunté à la langue anglaise, l’adjectif « régénérative » fait son chemin dans le monde agricole. À traduire en français par régénérateur ou régénératrice, on peut le définir par : qui a la vertu, le pouvoir de régénérer.
 
 Si l’on continue cette enquête linguistique, on se rappelle que le verbe régénérer signifie « renouveler en redonnant les qualités perdues » pour _Le Petit Robert_ et « réformer en ramenant à un état antérieur jugé supérieur » pour  _Larousse_. Le fait de vouloir régénérer sous-tend donc la mise en place d’actions pour aller vers une amélioration à partir d’une situation jugée détériorée. Pour conclure cette introduction, gardons en tête que **régénérer est synonyme de reconstituer, et l’inverse de dégrader**. Qui régénère ne se contente pas de l’état présent.
