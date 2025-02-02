@@ -8,11 +8,13 @@ tags:
 - Pyrénées-Orientales
 - Corse
 title: La cicadelle « africaine » a été détectée dans les vignes du Roussillon
+excerpt_separator: <!--more-->
 ---
 
 Une nouvelle cicadelle verte a été détectée dans le vignoble des Pyrénées-Orientales. Le ravageur remonte vers le nord de l'Europe depuis le Maghreb. Les dégâts peuvent aller jusqu'à une défoliation précoce.
 
 ![](/assets/a4546fb446b7fafd06f03b433108d8db.jpg)
+<!--more-->
 
 La cicadelle africaine a été détectée pendant les vendanges 2024 dans Pyrénées-Orientales. En Corse, le ravageur émergent est présent sur l'île depuis 2023.
 

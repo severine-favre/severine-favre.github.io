@@ -215,6 +215,47 @@ def extract_article_section(html):
         return None
 
 
+import re    
+def add_excerpt_separator(markdown: str) -> str:
+    """
+    Adds an excerpt separator `<!--more-->` after the first paragraph or image in the markdown.
+    It also adds `excerpt_separator: <!--more-->` to the front matter.
+
+    :param markdown: The input markdown string.
+    :return: The markdown string with the excerpt separator and front matter added.
+    """
+    # Check if there is any front matter (starts with "---" and ends with "---")
+    front_matter_match = re.match(r"^---\n(.*?)\n---\n", markdown, re.DOTALL)
+    
+    # If front matter exists, we need to add the separator to the front matter
+    if front_matter_match:
+        front_matter = front_matter_match.group(1)
+        front_matter = front_matter + "\nexcerpt_separator: <!--more-->"
+        
+        # Rebuild the markdown with updated front matter
+        markdown = f"---\n{front_matter}\n---\n" + markdown[front_matter_match.end():]
+    else:
+        # If no front matter, simply add the excerpt separator at the start
+        markdown = f"---\nexcerpt_separator: <!--more-->\n---\n" + markdown
+
+    # Find the first paragraph or image
+    first_paragraph_match = re.search(r'^\s*#[^\n]*\n|\n\n.*?\n\n', markdown)  # Detects first paragraph
+    first_image_match = re.search(r'!\[.*?\]\(.*?\)', markdown)  # Detects first image
+
+    # If we found both, insert the separator after the last of them
+    if first_paragraph_match and first_image_match:
+        first_to_insert = max(first_paragraph_match.end(), first_image_match.end())
+    elif first_paragraph_match:
+        first_to_insert = first_paragraph_match.end()
+    elif first_image_match:
+        first_to_insert = first_image_match.end()
+    else:
+        first_to_insert = 0
+
+    # Insert the separator after the appropriate location
+    markdown = markdown[:first_to_insert] + "\n<!--more-->" + markdown[first_to_insert:]
+
+    return markdown
 
 
 def main():
@@ -251,6 +292,8 @@ def main():
 
             from assets import download_images_in_markdown
             markdown_post = download_images_in_markdown(markdown_post, "/", args.assets_directory)
+
+            markdown_post = add_excerpt_separator(markdown_post)
             
             # Write the Markdown post to the specified target directory with the correct filename
             print(markdown_post)
@@ -265,3 +308,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+    
