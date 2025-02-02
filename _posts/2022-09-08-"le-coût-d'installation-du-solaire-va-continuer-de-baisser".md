@@ -59,4 +59,7 @@ Ces cellules à meilleur rendement devraient être autant ou moins chères que c
 
 ### 
 
-**PLUS DE TOITS COUVERTS.** À compter du 1er janvier 2023, en France, les nouveaux bâtiments commerciaux, industriels, artisanaux ou bien les entrepôts et hangars de plus de 500 m2 et les bâtiments de bureaux de plus de 1000 m2 devront végétaliser ou solariser 30 % de leur surface. À compter du 1er janvier 2024, ce sont les nouveaux parcs de stationnement de plus de 500 m2 qui devront végétaliser ou solariser 50 % de leur surface, et 100 % des ombrières dès lors qu’il en existe. Les propriétaires de ces constructions pourront amortir les investissements par la vente ou l’autoconsommation de l’électricité produite.
+**PLUS DE TOITS COUVERTS.** À compter du 1er janvier 2023, en France, les nouveaux bâtiments commerciaux, industriels, artisanaux ou bien les entrepôts et hangars de plus de 500 m2 et les bâtiments de bureaux de plus de 1000 m2 devront végétaliser ou solariser 30 % de leur surface. À compter du 1er janvier 2024, ce sont les nouveaux parcs de stationnement de plus de 500 m2 qui devront végétaliser ou solariser 50 % de leur surface, et 100 % des ombrières dès lors qu’il en existe. Les propriétaires de ces constructions pourront amortir les investissements par la vente ou l’autoconsommation de l’électricité produite. 
+
+
+Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/actualites/le-cout-dinstallation-du-solaire-va-continuer-de-baisser-851662.php](https://www.tema-agriculture-terroirs.fr/mon-viti/actualites/le-cout-dinstallation-du-solaire-va-continuer-de-baisser-851662.php)

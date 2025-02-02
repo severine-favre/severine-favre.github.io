@@ -29,16 +29,11 @@ _«**Les vignes ont été arrachées fin 2023**. Le chantier d’installation et
 
 ### De l'électricité pour plus de 2.000 habitants
 
-Des pieux d’une hauteur de 4,5 mètres sont prévus pour supporter les panneaux bifaciaux. Entre chaque rangée de piliers, 4 rangs de **vigne irriguée en IGP** seront implantés. _« La mécanisation de la parcelle ne sera pas gênée et les vignes seront protégées des aléas climatiques, notamment de l’éch_
+Des pieux d’une hauteur de 4,5 mètres sont prévus pour supporter les panneaux bifaciaux. Entre chaque rangée de piliers, 4 rangs de **vigne irriguée en IGP** seront implantés. _« La mécanisation de la parcelle ne sera pas gênée et les vignes seront protégées des aléas climatiques, notamment de l’échaudage. En été, sous les ombrières, la température peut être jusqu’à 4 degrés moindre. Cela peut faire la différence sur les blocages de maturité »_ , explique le viticulteur.
 
-La suite est réservée aux abonnés
+Les 6.544 panneaux solaires de la centrale agrivoltaïque permettront de produire 5 GWh par an d**’électricité verte** , soit l’équivalent de la consommation annuelle de 2.325 habitants.
 
-Accédez en illimité à nos contenus et à nos newsletters thématiques
+**Séverine Favre**
 
-[S'abonner](https://boutique.tema-agriculture-terroirs.fr/viti?utm_source=site_editorial&utm_medium=referral&utm_campaign=www.tema-agriculture-terroirs.fr&utm_term=paywall&utm_content=<?php echo $_SERVER\['HTTP_HOST'\].$_SERVER\['REQUEST_URI'\];?> "Abonnez-vous")
 
-Déjà Abonné ? Se connecter
-
-Cet article est réservé aux abonnés
-
-Se connecter / [S'abonner](https://boutique.tema-agriculture-terroirs.fr/viti?utm_source=site_editorial&utm_medium=referral&utm_campaign=www.tema-agriculture-terroirs.fr&utm_term=paywall&utm_content=<?php echo $_SERVER\['HTTP_HOST'\].$_SERVER\['REQUEST_URI'\];?>)
+Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lagrivoltaisme-sinstalle-sur-des-vignes-bio-du-gard-914978.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lagrivoltaisme-sinstalle-sur-des-vignes-bio-du-gard-914978.php)

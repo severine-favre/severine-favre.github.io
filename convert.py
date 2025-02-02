@@ -171,19 +171,39 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 import time
+import functools
+import os
+
+@functools.cache
+def get_driver(port=6080):
+    # Set up the Firefox options to connect to the existing session
+    options = Options()
+    # options.log.level = "trace"
+    
+    # debugger_address = f"localhost:{port}"
+    # options.set_capability("moz:firefoxOptions", {"debuggerAddress": debugger_address})
+
+    profile =  webdriver.FirefoxProfile(os.getenv("FIREFOX_PROFILE"))
+    options.profile = profile
+    
+    # options.set_capability('moz:firefoxOptions', {
+    #     'args': [f'--remote-debugging-port={port}',
+    #              '-profile', ""
+    #              ]
+    # })
+
+    # service = webdriver.FirefoxService(log_output=log_path, service_args=['--log', 'debug'])
+    
+    # Connect to the existing Firefox session
+    driver = webdriver.Firefox(options=options)  # Ensure geckodriver is in PATH or specify the full path
+    return driver
+
 
 def get_html_from_existing_firefox(url):
     """
     Connect to an existing Firefox session and fetch the HTML for the given URL.
     """
-    # Set up the Firefox options to connect to the existing session
-    options = Options()
-    options.set_capability('moz:firefoxOptions', {
-        'args': ['--remote-debugging-port=9222']
-    })
-    
-    # Connect to the existing Firefox session
-    driver = webdriver.Firefox(options=options)  # Ensure geckodriver is in PATH or specify the full path
+    driver = get_driver()
     
     # Navigate to the URL
     driver.get(url)
@@ -193,9 +213,6 @@ def get_html_from_existing_firefox(url):
 
     # Get the page source (HTML)
     page_html = driver.page_source
-
-    # Close the session
-    driver.quit()
 
     return page_html
 
@@ -284,9 +301,6 @@ def main():
 
         # Output the extracted article section
         if article_html:
-            print("Extracted Article Section:")
-            # print(article_html)
-
             input_html = article_html
 
             # Clean the HTML and extract metadata
@@ -299,6 +313,8 @@ def main():
             markdown_post = download_images_in_markdown(markdown_post, "/", args.assets_directory)
 
             markdown_post = insert_excerpt_separator(markdown_post)
+
+            markdown_post += f"\n\nPublication originale: [{url}]({url})\n"
             
             # Write the Markdown post to the specified target directory with the correct filename
             # print(markdown_post)
