@@ -3,5 +3,5 @@ markdown post, removing the article title and metadata (tags, author,
 publication date) from the markdown body and adding them to the
 markdown header, keeping original links to pictures in the text body.
 
-once done, display the jekyll post markdown filename based on the
-article title.
+once done, don't forget to display the jekyll post markdown filename
+based on date and title.
