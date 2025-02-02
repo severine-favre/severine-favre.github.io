@@ -1,7 +1,7 @@
 convert the following article from the following html to jekyll
 markdown post, removing the article title and metadata (tags, author,
 publication date) from the markdown body and adding them to the
-markdown header, keeping original links to pictures in the text body.
-
-once done, don't forget to display the jekyll post markdown filename
-based on date and title.
+markdown header, keeping original links to pictures in the text
+body. don't summarize or alter the original article contents in any
+way. display the jekyll post markdown filename based on
+date and title on exit.

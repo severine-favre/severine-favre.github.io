@@ -163,17 +163,95 @@ def main():
     print("Please input the HTML string:")
     input_html = sys.stdin.read()  # Read the entire input as a string
     
-    # Clean the HTML and extract metadata
-    metadata = clean_and_extract_metadata(input_html)
+
+
+import sys
+import argparse
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+import time
+
+def get_html_from_existing_firefox(url):
+    """
+    Connect to an existing Firefox session and fetch the HTML for the given URL.
+    """
+    # Set up the Firefox options to connect to the existing session
+    options = Options()
+    options.set_capability('moz:firefoxOptions', {
+        'args': ['--remote-debugging-port=9222']
+    })
     
-    # Convert the cleaned HTML and metadata to a Jekyll post (Markdown)
-    markdown_post = convert_to_jekyll_post(metadata)
+    # Connect to the existing Firefox session
+    driver = webdriver.Firefox(options=options)  # Ensure geckodriver is in PATH or specify the full path
     
-    # Write the Markdown post to the specified target directory with the correct filename
-    post_file_path = write_jekyll_post(markdown_post, target_directory)
+    # Navigate to the URL
+    driver.get(url)
+
+    # Wait for the page to load (adjust time as needed)
+    time.sleep(3)  # You may want to adjust this depending on your network speed
+
+    # Get the page source (HTML)
+    page_html = driver.page_source
+
+    # Close the session
+    driver.quit()
+
+    return page_html
+
+
+def extract_article_section(html):
+    """
+    Extract the <section> tag with class 'article' from the provided HTML string.
+    """
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(html, 'html.parser')
+    article_section = soup.find('section', class_='article')
+
+    if article_section:
+        return str(article_section)
+    else:
+        return None
+
+
+def main():
+    # Set up command-line argument parsing
+    parser = argparse.ArgumentParser(description="Fetch a URL and extract the <section> with class 'article' using Firefox.")
+    parser.add_argument('url', nargs='+', type=str, help="The URL to fetch and extract the article section from.")
+    parser.add_argument('-d', '--target_directory', type=str, required=True, help="where to put the resulting markdown")    
     
-    # Print the file path where the post is saved
-    print(f"Jekyll post written to: {post_file_path}")
+    # Parse the command-line arguments
+    args = parser.parse_args()
+
+    for url in args.url:
+        # Fetch HTML from existing Firefox session
+        html_content = get_html_from_existing_firefox(url)
+
+        # Extract the article section from the HTML
+        article_html = extract_article_section(html_content)
+
+        # Output the extracted article section
+        if article_html:
+            print("Extracted Article Section:")
+            # print(article_html)
+
+            input_html = article_html
+
+            # Clean the HTML and extract metadata
+            metadata = clean_and_extract_metadata(input_html)
+
+            # Convert the cleaned HTML and metadata to a Jekyll post (Markdown)
+            markdown_post = convert_to_jekyll_post(metadata)
+
+            # Write the Markdown post to the specified target directory with the correct filename
+            post_file_path = write_jekyll_post(markdown_post, args.target_directory)
+
+            # Print the file path where the post is saved
+            print(f"Jekyll post written to: {post_file_path}")
+
+        else:
+            print("Could not find the article section.")
 
 
 if __name__ == "__main__":

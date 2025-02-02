@@ -8,9 +8,9 @@ tags:
 - Matière organique
 - Changement climatique
 - Pâturage
-- Compost
+- 'Compost '
 - Viticulture régénérative
-title: 'Qu''est-ce que la viticulture régénérative ?'
+title: 'Qu''est-ce que la viticulture régénérative ? '
 ---
 
 ![](https://ibp.info6tm.fr/api/v1/files/6527ab999be9825b482e8028/methodes/pag_article/image.jpg)
