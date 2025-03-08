@@ -23,7 +23,7 @@ Les 12 hectares de vignes sont regroupés sur des coteaux schisteux, menés en a
 
 
 
-Au nord-ouest de Béziers, dans l’Hérault, une myriade de terroirs AOC surplombe la plaine viticole biterroise. Sur ces coteaux de moyenne altitude arrosés de soleil s’étend notamment l’aire d’appellation de **saint-chinian**.
+Au nord-ouest de Béziers, dans l’Hérault, une myriade de terroirs AOC surplombe la plaine viticole biterroise. Sur ces coteaux de moyenne altitude arrosés de soleil s’étend notamment l’aire d’appellation de **Saint-Chinian**.
 
 Thierry Navarre est l’un de ses représentants. À 59 ans, ce fils et petit-fils de vigneron peut retracer l’histoire collective de l’AOC, sa genèse et les efforts déployés auprès des prescripteurs pour faire reconnaître la qualité de ses vins.
 
@@ -73,11 +73,11 @@ Le ribeyrenc donne des vins avec peu de couleur. Il développe des arômes très
 
 Dans sa quête, tous les essais ne sont pas si concluants.
 
-« ** _Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons_ ** , estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
+« **Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons** , estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
 
 Car si le vigneron s’est orienté vers des variétés qui révèlent **une bonne tolérance à la sécheresse,** il n’en reste pas moins, lui aussi, **soumis au changement climatique.**
 
-«  _Le virage est notable depuis les années 2000. L’été, c’est la sécheresse, mais tout de même avec des pluies ponctuelles de 2 mm, propices à l’oïdium et au black-rot. Il est fini le temps où j’avais uniquement une poudreuse pour contenir l’oïdium en deux traitements. Et désormais, en plus, chaque passage est à réfléchir en fonction du risque de grillure des feuilles. En 2019, lors du pic de chaleur, des vignes soufrées dix jours plus tôt ont totalement grillé. D’autres années, les conditions météo augmentent la fréquence et la virulence du mildiou, une maladie que l’on voyait_ _une fois tous les dix ans avant. Les coûts de production augmentent et le rendement diminue. Et globalement,**avec le manque d’eau, il est plus compliqué d’installer une jeune vigne** sur mes coteaux de schistes maigres._ »
+«  _Le virage est notable depuis les années 2000. L’été, c’est la sécheresse, mais tout de même avec des pluies ponctuelles de 2 mm, propices à l’oïdium et au black-rot. Il est fini le temps où j’avais uniquement une poudreuse pour contenir l’oïdium en deux traitements. Et désormais, en plus, chaque passage est à réfléchir en fonction du risque de grillure des feuilles. En 2019, lors du pic de chaleur, des vignes soufrées dix jours plus tôt ont totalement grillé. D’autres années, les conditions météo augmentent la fréquence et la virulence du mildiou, une maladie que l’on voyait_ _une fois tous les dix ans avant. Les coûts de production augmentent et le rendement diminue. Et globalement, **avec le manque d’eau, il est plus compliqué d’installer une jeune vigne** sur mes coteaux de schistes maigres._ »
 
 ### Adapter l'itinéraire technique
 
