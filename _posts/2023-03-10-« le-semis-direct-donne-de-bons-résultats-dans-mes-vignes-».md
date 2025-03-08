@@ -14,11 +14,11 @@ Sur le [domaine familial du Clos d’Elle](https://www.leclosdelle.com), Mathieu
 
 ![](/assets/cb61da032d634ae7c934015aa7dd54f1.jpg)
 <!--more-->
+_© DR_
 
 
 Mathieu bousquet : « Le semis direct donne de bons résultats dans mes vignes. »
 
-_© DR_
 
 
 
@@ -27,10 +27,10 @@ Depuis trois ans, **Mathieu Bousquet s’est lancé dans la mise en place de cou
 Pour semer les couverts, Mathieu Bousquet a investi dans **un semoir de la marque Guttler.** «  _C’est un outil qui accepte tous les types de mélanges grâce à sa double trémie de deux fois 100 litres. Il peut faire du semis à la volée ou enterré. Tout est mécanique, les réglages concernant la densité de semis sont très faciles à faire. Il m’a coûté 15.000 euros, sur lesquels j’ai bénéficié d’[aides PCAE](https://www.tema-agriculture-terroirs.fr/mon-viti/vie-de-lentreprise/les-conditions-des-pcae-2018-sont-connues-857414.php)_. »
 
 ![](/assets/acea914540187967f38aea73f55664fa.jpg)
+_© Mathieu Bousquet_
 
 Depuis trois ans, Mathieu Bousquet s’est lancé dans la mise en place de couverts végétaux dans ses vignes.
 
-_© Mathieu Bousquet_
 
 ### Avec ou sans travail du sol
 
@@ -43,10 +43,10 @@ Et les avantages liés à la suppression d’un passage ne sont pas anodins, sur
 Le vigneron travaille avec des mélanges de semences à base de féveroles, de pois, d’avoine, d’orge de radis fourrager, de moutarde brune ou encore de colza. «  _**Je m’approvisionne en grande partie auprès d’un groupement de céréaliers bio de l’Aude :[Graines équitables](https://graines-equitables.fr)**. Les prix des semences fermières sont raisonnables – 0,60 €/kg pour la féverole, 1 €/kg pour le colza par exemple – et les graines sont locales. Je commande en avril pour une réception en août. Je réalise ensuite mes mélanges moi-même en brassant les différents sacs à la main. Plus j’ai mes graines tôt, plus je peux espérer commencer les semis précocement, même dans le sec. Les graines mises en terre fin août-début septembre profitent mieux des premières pluies d’automne que celles semées plus tard dans un sol frais. Malheureusement, je n’arrive pas forcément à m’appliquer mes bons conseils !_ »
 
 ![](/assets/93691429815c38a71bea1b8b8d4d19a1.jpg)
+_© Mathieu Bousquet_
 
 Selon Mathieu Bousquet, les graines mises en terre fin août-début septembre profitent mieux des premières pluies d’automne que celles semées plus tard dans un sol frais.
 
-_© Mathieu Bousquet_
 
 Côté densité, Mathieu Bousquet est parti sur **170 kg/ha en plein, soit 56 kg/ha rapportés à la surface réellement semée sur les parcelles enherbées un rang sur deux.** «  _Je sème sur une largeur de 140 cm. Pour bien contenir le couvert sur cette bande, je passe l’intercep en janvier-février. En mars, j’apporte de la fiente de poules. Une tonne hectare à 40 unités d’azote. Sur les premières années, je pense que cette fertilisation organique est intéressante pour " équilibrer" le système. _»
 
@@ -84,7 +84,7 @@ L’outil, créé par un GIEE de céréaliers de la Nièvre, conseille égalemen
 
 
 
-«  _Le fait de**rajouter de l’argile permet de bien sécher les graines pour avoir un enrobage uniforme et non collant**. La complexité est liée au fait de rassembler tous les ingrédients, et surtout de **préparer le thé de compost 24 heures avant le semis** _», précise le GIEE.
+«  _Le fait de **rajouter de l’argile permet de bien sécher les graines pour avoir un enrobage uniforme et non collant**. La complexité est liée au fait de rassembler tous les ingrédients, et surtout de **préparer le thé de compost 24 heures avant le semis** _», précise le GIEE.
 
 Dossier
 
