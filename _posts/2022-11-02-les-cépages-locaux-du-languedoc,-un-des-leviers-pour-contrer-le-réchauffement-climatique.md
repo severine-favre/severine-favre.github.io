@@ -33,7 +33,7 @@ Thierry Navarre est l’un de ses représentants. À 59 ans, ce fils et petit-fi
 
 Pourtant, ce n’est peut-être pas passé loin.
 
-** >> Thierry Navarre détaille :**
+> ** Thierry Navarre détaille :**
 
 « _Au tournant des années 1990, la volonté de certains d’aller trop en avant vers les variétés dites “amélioratrices” m’a beaucoup interrogé. À les écouter, la qualité de nos vins ne pouvait s'améliorer qu’avec l’augmentation de la syrah dans l’assemblage. On ne parlait pas encore de changement climatique, mais j’avais déjà la volonté d’aller vers des cépages variés, adaptés à mon terroir afin d’élaborer des vins équilibrés. Impossible avec des grenaches à 15 degrés et des syrahs qui sortent à 20 hl/ha sans irrigation_. »
 
@@ -73,7 +73,7 @@ Le ribeyrenc donne des vins avec peu de couleur. Il développe des arômes très
 
 Dans sa quête, tous les essais ne sont pas si concluants.
 
-« **Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons** , estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
+« _**Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons**_, estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
 
 Car si le vigneron s’est orienté vers des variétés qui révèlent **une bonne tolérance à la sécheresse,** il n’en reste pas moins, lui aussi, **soumis au changement climatique.**
 

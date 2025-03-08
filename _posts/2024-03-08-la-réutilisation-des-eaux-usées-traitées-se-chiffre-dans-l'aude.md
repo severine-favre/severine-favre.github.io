@@ -54,7 +54,7 @@ Les apports en macronutriments azote, phosphore sont très différents entre les
 
 **La salinité est aussi surveillée**. Si actuellement les taux mesurés dans les sols ne posent pas de problème, il pourrait en être autrement dans les années à venir. «  _S’il faut rajouter une opération de désalinisation de l’eau, le coût de l’irrigation augmentera_. »
 
-> >> À lire : [Réutilisation des eaux usées : attention à l’accumulation de sodium dans les sols](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/attention-a-laccumulation-de-sodium-dans-les-sols-855045.php)
+> À lire : [Réutilisation des eaux usées : attention à l’accumulation de sodium dans les sols](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/attention-a-laccumulation-de-sodium-dans-les-sols-855045.php)
 
 «  _Malgré les incitations européennes,**les projets restent complexes et coûteux**_ », conclut le chercheur.
 

@@ -46,11 +46,11 @@ L’adaptation au changement climatique du Domaine Boisson passe aussi par une r
 
 * * *
 
-> >> À lire aussi à ce sujet :
-> 
-> [**Quels leviers pour produire des vins rouges plus frais et fruités ?**](https://www.tema-agriculture-terroirs.fr/mon-viti/quels-leviers-pour-produire-des-vins-rouges-plus-frais-et-fruites-911293.php)
-> 
-> [**La pulvérisation d'argile blanche peut limiter l'échaudage**](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-pulverisation-dargile-blanche-peut-limiter-lechaudage-908569.php)
+> À lire aussi à ce sujet :
+
+[**Quels leviers pour produire des vins rouges plus frais et fruités ?**](https://www.tema-agriculture-terroirs.fr/mon-viti/quels-leviers-pour-produire-des-vins-rouges-plus-frais-et-fruites-911293.php)
+ 
+[**La pulvérisation d'argile blanche peut limiter l'échaudage**](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-pulverisation-dargile-blanche-peut-limiter-lechaudage-908569.php)
 
 ---
 

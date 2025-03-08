@@ -74,7 +74,7 @@ Ici, du trèfle fraise est implanté. La variété pluriannuelle résiste bien �
 
 (1) La présence de sels dans le sol peut conduire à de fortes concentrations en sels dans la solution du sol lorsque l’humidité du sol diminue. Ces fortes concentrations limitent la différence de potentiel osmotique dans la zone racinaire ce qui induit un stress hydrique pour les plantes (stress osmotique). Source BRGM
 
-> >> À lire aussi : [Quand le sel ronge les vignes](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quand-le-sel-ronge-les-vignes-853734.php) de l'Orb
+> À lire aussi : [Quand le sel ronge les vignes](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quand-le-sel-ronge-les-vignes-853734.php) de l'Orb
 
 ---
 

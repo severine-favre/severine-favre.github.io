@@ -73,7 +73,7 @@ Pensée pour assurer le partage de l’eau entre tous les usagers, la tranche 3 
 
 * * *
 
-**> >> Article paru dans _Viti Leaders_ de mai 2022**
+> ** Article paru dans _Viti Leaders_ de mai 2022**
 
 ![](/assets/4b348dca2c7b94f22528d20dfa203969.png)
 _© DR_
