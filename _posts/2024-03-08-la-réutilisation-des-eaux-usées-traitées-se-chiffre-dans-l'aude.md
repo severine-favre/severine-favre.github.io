@@ -15,11 +15,11 @@ Dans l'Aude, une poignée de viticulteurs irriguent leurs vignes avec de l'eau u
 
 ![Vigne](/assets/c37fbf0c6ccff7073e36c8657d922304.jpg)
 <!--more-->
+_© Xavier Remongin/agriculture.gouv.fr_
 
 
 Deux projets de réutilisation des eaux usées traitées de Step sont en fonctionnement dans l'Aude. 
 
-_© Xavier Remongin/agriculture.gouv.fr_
 
 
 
@@ -27,7 +27,7 @@ _© Xavier Remongin/agriculture.gouv.fr_
 
 Sur le département languedocien, deux projets pilotes sont en fonctionnement : celui de Gruissan et celui de Roquefort-des-Corbières, qui permettent respectivement d**’irriguer 80** **et 15** **ha de vignes**.
 
-**> >> À lire : [De l'eau usée traitée arrose déjà 100 ha de vignes audoises](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/leau-usee-traitee-arrose-deja-100-ha-de-vignes-audoises-894839.php)**
+> ** >> À lire : [De l'eau usée traitée arrose déjà 100 ha de vignes audoises](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/leau-usee-traitee-arrose-deja-100-ha-de-vignes-audoises-894839.php)**
 
 Pour mettre en eau les vignes de Gruissan, la communauté du Grand Narbonne et l’ASA en charge du projet ont investi**1,3** **million d’euros subventionné à 80** **% par l’Union européenne.**
 
@@ -47,14 +47,14 @@ Les apports de macronutriments par les eaux usées traitées ont aussi été mes
 Celles de la station de Gruissan, destinées à être rejetées en pleine mer Méditerranée, sont, en revanche, plus riches.
 
 ![](/assets/325c688eb2f34f98e0c4006f9e04fc6e.png)
+_© Inrae/IFV_
 
 Les apports en macronutriments azote, phosphore sont très différents entre les eaux des stations. Résultats établis par Hernan Ojeda (Inrae) et Denis Caboulet (IFV). 
 
-_© Inrae/IFV_
 
 **La salinité est aussi surveillée**. Si actuellement les taux mesurés dans les sols ne posent pas de problème, il pourrait en être autrement dans les années à venir. «  _S’il faut rajouter une opération de désalinisation de l’eau, le coût de l’irrigation augmentera_. »
 
-**> >> À lire : [Réutilisation des eaux usées : attention à l’accumulation de sodium dans les sols](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/attention-a-laccumulation-de-sodium-dans-les-sols-855045.php)**
+> **>> À lire : [Réutilisation des eaux usées : attention à l’accumulation de sodium dans les sols](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/attention-a-laccumulation-de-sodium-dans-les-sols-855045.php)**
 
 «  _Malgré les incitations européennes,**les projets restent complexes et coûteux**_ », conclut le chercheur.
 

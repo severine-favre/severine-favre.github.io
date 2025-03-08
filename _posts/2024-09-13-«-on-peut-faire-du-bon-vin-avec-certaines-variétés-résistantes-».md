@@ -15,11 +15,11 @@ Depuis bientôt 15 ans, le domaine de l’Isle Saint-Pierre implante des variét
 
 ![](/assets/4e0b407ac39b52a60c47a9966fb16832.jpg)
 <!--more-->
+_© DR_
 
 
 Les vins de variétés résistantes constituent une gamme de 6 références au domaine de l'Isle-Saint-Pierre.
 
-_© DR_
 
 
 
@@ -54,10 +54,10 @@ Les vins de variétés résistantes constituent une gamme de 6 références. L�
 Pour compléter son offre, le vigneron propose**un vin effervescent à petit degré d’alcool** : un souvignier gris à 7° partiellement fermenté. _« Il présente une belle acidité équilibrée par 60_  _g/l de sucres résiduels_  _»_ , détaille Julien Henry.
 
 ![](/assets/6778746581552ad8ee802764cf84aba7.png)
+_© DR_
 
 Les vins de variétés résistantes constituent une gamme de 6 références au domaine de l'Isle-Saint-Pierre
 
-_© DR_
 
 Ces vins sont les plus chers du domaine, avec **un prix consommateur supérieur à 10** **euros,** quand les vins issus de cépages _Vitis vinifera_ oscillent entre 5 et 11 euros. _«_  _Ces références conditionnées représentent encore de petits volumes : 10.000_  _bouteilles en 2023. Mais les ventes progressent, surtout en local. Il faut beaucoup d’explications pour convaincre la première fois. Ensuite, le goût fait revenir_  _!_  _»_
 
