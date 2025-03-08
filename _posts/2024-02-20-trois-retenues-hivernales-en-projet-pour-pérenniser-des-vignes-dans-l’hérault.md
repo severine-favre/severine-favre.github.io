@@ -16,10 +16,10 @@ Dans l'ouest de l’Hérault, la sécheresse menace la production viticole. La c
 ![sécheresse](/assets/50baaff25cc6c51504736869fc60798f.jpg)
 <!--more-->
 
+_© Séverine Favre_
+
 
 Le manque d'eau en 2023 dans l'ouest de l'Hérault a entraîné une baisse de vigueur de certaines vignes, ce qui complique la taille.
-
-_© Séverine Favre_
 
 
 
@@ -34,10 +34,11 @@ Or dans la zone AOC de picpoul-de-pinet, **chaque hectolitre compte**. Le vin bl
 Et l’année 2024 n’augure pas forcément du mieux. _« L’épisode de pluie du 10_  _janvier_[environ 60 mm]_a permis d’améliorer temporairement l’hydrologie des cours d’eau de l’ensemble du département_ , rappelle la préfecture._En revanche, le niveau des nappes souterraines a peu augmenté et reste insuffisant localement. Au regard de ces éléments et des prévisions météorologiques à court terme »_ , **des bassins-versants sont d’ores et déjà classés en crise ou en alerte renforcée** et la nappe souterraine astienne, sur laquelle s’étend le vignoble de picpoul, est, elle aussi, en alerte renforcée. Les voyants sont au rouge.
 
 ![L'indicateur "Niveau des nappes"](/assets/3554e73361bb862e241bacac963b00fb.png)
+_© BRGM_
+
 
 L'indicateur "niveau des nappes" du BRGM compare le mois en cours par rapport aux mêmes mois de l’ensemble de la chronique, soit au minimum 15 ans de données, et ce, jusqu'à plus de 100 ans. Il est réparti en 7 classes, du niveau le plus bas (en rouge) au niveau le plus haut (en bleu foncé).
 
-_© BRGM_
 
 ### Le conseil départemental s’engage dans les retenues
 
