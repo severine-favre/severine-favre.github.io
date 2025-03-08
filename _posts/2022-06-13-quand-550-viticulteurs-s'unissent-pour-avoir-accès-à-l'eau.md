@@ -44,7 +44,7 @@ Pendant que les travaux avancent, de nouveaux viticulteurs s’impliquent dans l
 
 _« Le stress hydrique, de plus en plus fréquent, mène des viticulteurs à envisager l’irrigation en goutte-à-goutte, en premier lieu pour**sécuriser le rendement les années sèches, avec un objectif moyen de 80-90 hl/ha** »,_ indique Gérard Bourdel. Sur l’Asa, 95 % des parcelles raccordées sont en IGP.
 
-> ** >> Lire aussi : [« L’irrigation permet de maintenir, pas d’augmenter, le potentiel de rendement »](http://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lirrigation-permet-de-maintenir-pas-daugmenter-le-potentiel-de-rendement-852657.php)**
+> **Lire aussi : [« L’irrigation permet de maintenir, pas d’augmenter, le potentiel de rendement »](http://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lirrigation-permet-de-maintenir-pas-daugmenter-le-potentiel-de-rendement-852657.php)**
 
 ### Installation et entretien du goutte-à-goutte à la charge des viticulteurs
 
