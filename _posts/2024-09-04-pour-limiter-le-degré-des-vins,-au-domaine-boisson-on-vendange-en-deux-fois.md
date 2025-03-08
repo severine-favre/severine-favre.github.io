@@ -14,11 +14,11 @@ Le Domaine Boisson innove pour adapter ses vins rouges aux défis du réchauffem
 
 ![](/assets/1dc2e075747b1674d2d9ec057410598e.jpg)
 <!--more-->
+_© Domaine Boisson_
 
 
 Grenaches en gobelet fraîchement écimés. Le rendement moyen du domaine en AOC cairanne est de 33 hl/ha. 
 
-_© Domaine Boisson_
 
 
 
