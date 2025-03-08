@@ -44,13 +44,12 @@ Commercialement, les retours clientèle sont bons, même meilleurs qu’avant, a
 
 L’adaptation au changement climatique du Domaine Boisson passe aussi par une réflexion sur l’encépagement pour aller vers des variétés plus tardives que le grenache, comme le muscardin, la counoise, le terret, le piquepoul et le vaccarèse.
 
-* * *
 
 > À lire aussi à ce sujet :
-
-[**Quels leviers pour produire des vins rouges plus frais et fruités ?**](https://www.tema-agriculture-terroirs.fr/mon-viti/quels-leviers-pour-produire-des-vins-rouges-plus-frais-et-fruites-911293.php)
- 
-[**La pulvérisation d'argile blanche peut limiter l'échaudage**](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-pulverisation-dargile-blanche-peut-limiter-lechaudage-908569.php)
+> 
+> [Quels leviers pour produire des vins rouges plus frais et fruités ?](https://www.tema-agriculture-terroirs.fr/mon-viti/quels-leviers-pour-produire-des-vins-rouges-plus-frais-et-fruites-911293.php)
+>
+>  [La pulvérisation d'argile blanche peut limiter l'échaudage](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-pulverisation-dargile-blanche-peut-limiter-lechaudage-908569.php)
 
 ---
 
