@@ -14,11 +14,10 @@ excerpt_separator: <!--more-->
 ![](/assets/991308a2dbee7c97c71ae5ff47a6efb6.jpg)
 
 
-
 En région méditerranéenne, le changement climatique accentue le besoin en eau des cultures et diminue, dans un même temps, la disponible de cette ressource. Face à cette situation, la Région Occitanie a choisi de compenser le manque par des infrastructures hydrauliques distribuant de l’eau essentiellement venue du Rhône. Cet effort stratégique publique permettrait d’arroser plus de 100 000 ha de cultures.
 
-
 <!--more-->
+
 Depuis les années 1960, **les territoires languedociens disposent d’un réseau d’irrigation publique**. Désormais propriété de la Région Occitanie, le [Réseau hydraulique régional](https://www.reseau-hydraulique-regional.fr/phototheque/photos/actualite/2021/RHR%202020_Flipbook.pdf) distribue de l’eau – notamment à usages agricoles – dans 250 communes sur les départements de l’Hérault, de l’Aude et du Gard.
 
 L’eau provient du Rhône à 75 % et à 15% de l’Orb, un fleuve traversant la plaine viticole de Béziers. Dans les années à venir, le Rhône est appelé à avoir une place encore plus importante. L’eau du fleuve le plus puissant de France va substituer des prélèvements réalisés dans des ressources locales en tension comme les nappes phréatiques. Déjà aux portes de la ville Montpellier, distante de 60 km, fin 2022, l’eau du Rhône devrait rejoindre le réseau de l’Orb encore plus à l’ouest. Le prolongement de ce que l’on appelle localement le projet Aqua Domitia participe à l’extension des réseaux secondaires sur la plaine languedocienne. À ce jour, **certainement plus de 100 000 ha de cultures sont irrigués**. Le conditionnel est de mise car le concessionnaire du Réseau relève des volumes d’eau. Et contrairement à ce que l’on pourrait imaginer, la demande n’est pas explosive si l’on remet en perspective l’histoire de la région.
@@ -35,9 +34,8 @@ Les viticulteurs languedociens, soumis à un régime hydrique irrégulièrement 
 
 L’heure est en effet à la sobriété. Si la Région et les parties prenantes associées aux décisions d’extension de réseau sont volontaires dans la stratégie d’agrandissement, les feux verts ne sont pas donnés à la chaîne. Différents points sont étudiés de près : le niveau de demandes sur le territoire visé, la motivation du porteur de projet (commune, association syndicale autorisée, [coopérative](https://www.reseau-hydraulique-regional.fr/fr/lactualite-du-projet/a-cers-34-150-ha-dexploitations-viticoles-igp-irrigues-tout-en-preservant-la-biodiversite/)…), la faisabilité technique, le financement qui se répartit généralement par 80% d’aides publiques et 20% d’autofinancement par les demandeurs, et forcément **la disponibilité en eau.** _« Tous les acteurs sont très vigilants sur ce point. Même s’il n’y a pas d’inquiétudes à l’horizon 2050-2100 sur le Rhône, nous mettons dès à présent en œuvre des[pratiques économes en eau](https://www.youtube.com/watch?v=nBuHS3ggNIE)_  _»,_ assure François Gontard.
 
-### 
+### Association syndicale autorisée : de l’eau en dehors du Réseau
 
-Association syndicale autorisée : de l’eau en dehors du Réseau  
 La région Occitanie, sur les territoires de l’ex-Languedoc-Roussillon, ne déploie pas une stratégie unique pour développer l’irrigation des cultures. En parallèle du Réseau hydraulique régional exploité par BRL, il existe d’autres réseaux agricoles totalement ou partiellement indépendant du premier.  
 Des associations syndicales autorisées (Asa) en sont, par exemple, propritaires. Celle du canal de Gignac s'étendra sur 4300 ha de cultures irriguées en 2024. Contrairement au Rhône, la ressource en eau dans laquelle prélève l’Asa du canal de Gignac est non sécurisée. Le fleuve Hérault connaît de forts étiages en période estivale, qui constitue par ailleurs la période de forts besoins agricoles. Les projets de modernisation et d’extension en cours doivent permettre à l’Asa de sécuriser le fonctionnement de ses ouvrages, pour limiter les aléas liés à la disponibilité de l’eau. 
 

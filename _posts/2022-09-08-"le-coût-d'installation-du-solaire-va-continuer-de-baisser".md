@@ -53,11 +53,11 @@ R. L.: Le rendement maximal est aujourd’hui de 22 à 24%. Cela signifie qu'un 
 
 Ces cellules à meilleur rendement devraient être autant ou moins chères que celles des générations passées. En conséquence, produire de l’électricité solaire sera de moins en moins coûteux à surface équivalente.
 
-### 
+---- 
 
 **MONDE.** En 2018, quatre pays possédaient plus des deux tiers du total de la puissance solaire photovoltaïque mondiale installée. La Chine à elle seule concentre 35% de cette puissance. Viennent ensuite les États-Unis (12 %), le Japon (11 %) et l'Allemagne (9 %). Source : Agence internationale de l’énergie 
 
-### 
+----
 
 **PLUS DE TOITS COUVERTS.** À compter du 1er janvier 2023, en France, les nouveaux bâtiments commerciaux, industriels, artisanaux ou bien les entrepôts et hangars de plus de 500 m2 et les bâtiments de bureaux de plus de 1000 m2 devront végétaliser ou solariser 30 % de leur surface. À compter du 1er janvier 2024, ce sont les nouveaux parcs de stationnement de plus de 500 m2 qui devront végétaliser ou solariser 50 % de leur surface, et 100 % des ombrières dès lors qu’il en existe. Les propriétaires de ces constructions pourront amortir les investissements par la vente ou l’autoconsommation de l’électricité produite. 
 

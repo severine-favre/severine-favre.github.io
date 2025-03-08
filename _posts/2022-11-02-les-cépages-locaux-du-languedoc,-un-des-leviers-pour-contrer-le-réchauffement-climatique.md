@@ -15,11 +15,11 @@ Ribeyrenc, morastell, terret, œillade… Ces noms de cépages ne vous disent ri
 
 ![Les 12 hectares de vignes  sont regroupés sur des coteaux  schisteux, menés en agriculture biologique, non certifiés. Photos : S.Favre/Média et Agriculture](/assets/73077fbea1bedc89630107f383ff44c7.jpg)
 <!--more-->
+_© S.Favre/Média et Agriculture_
 
 
 Les 12 hectares de vignes sont regroupés sur des coteaux schisteux, menés en agriculture biologique, non certifiés.
 
-_© S.Favre/Média et Agriculture_
 
 
 
@@ -27,15 +27,15 @@ Au nord-ouest de Béziers, dans l’Hérault, une myriade de terroirs AOC surplo
 
 Thierry Navarre est l’un de ses représentants. À 59 ans, ce fils et petit-fils de vigneron peut retracer l’histoire collective de l’AOC, sa genèse et les efforts déployés auprès des prescripteurs pour faire reconnaître la qualité de ses vins.
 
-«  _Nous partions de loin ! L’image des vins languedociens était tellement dégradée. Et si**aujourd’hui, je m’épanouis avec des cépages presque disparus comme le ribeyrenc** , je revendique toujours des vins en appellation saint-chinian. La syrah, le grenache et le mourvèdre apportent de la diversité à l’encépagement du domaine. Il ne faut pas jeter le bébé avec l’eau du bain comme on dit ! _»
+«  _Nous partions de loin ! L’image des vins languedociens était tellement dégradée. Et si **aujourd’hui, je m’épanouis avec des cépages presque disparus comme le ribeyrenc**, je revendique toujours des vins en appellation saint-chinian. La syrah, le grenache et le mourvèdre apportent de la diversité à l’encépagement du domaine. Il ne faut pas jeter le bébé avec l’eau du bain comme on dit !_ »
 
 ### Des cépages adaptés au terroir
 
 Pourtant, ce n’est peut-être pas passé loin.
 
-**_> >> _Thierry Navarre détaille :**
+** >> Thierry Navarre détaille :**
 
-_« Au tournant des années 1990, la volonté de certains d’aller trop en avant vers les variétés dites “amélioratrices” m’a beaucoup interrogé. À les écouter, la qualité de nos vins ne pouvait s'améliorer qu’avec l’augmentation de la syrah dans l’assemblage. On ne parlait pas encore de changement climatique, mais j’avais déjà la volonté d’aller vers des cépages variés, adaptés à mon terroir afin d’élaborer des vins équilibrés. Impossible avec des grenaches à 15 degrés et des syrahs qui sortent à 20 hl/ha sans irrigation_. »
+« _Au tournant des années 1990, la volonté de certains d’aller trop en avant vers les variétés dites “amélioratrices” m’a beaucoup interrogé. À les écouter, la qualité de nos vins ne pouvait s'améliorer qu’avec l’augmentation de la syrah dans l’assemblage. On ne parlait pas encore de changement climatique, mais j’avais déjà la volonté d’aller vers des cépages variés, adaptés à mon terroir afin d’élaborer des vins équilibrés. Impossible avec des grenaches à 15 degrés et des syrahs qui sortent à 20 hl/ha sans irrigation_. »
 
 ### Ribeyrenc et autres cépages patrimoniaux
 
@@ -48,12 +48,12 @@ Le viticulteur, qui reprenait alors le domaine familial, s’est intéressé à 
 Pour l’implantation, le vigneron choisit un coteau aride, exposé et caillouteux.
 
 ![Le sol du domaine est essentiellement  constitué de schistes affleurant en surface.](/assets/0a01847fb44528c45386b0912e107354.jpg)
+_© S. Favre/Média et Agriculture_
 
 Le sol du domaine est essentiellement constitué de schistes affleurant en surface.
 
-_© S. Favre/Média et Agriculture_
 
-«  _S’il poussait dans ces conditions, il pousserait ailleurs. Telle était ma réflexion, qui a été avisée, car**le ribeyrenc est un cépage qui s’épanouit dans la rusticité.** Il est tardif comme le mourvèdre, il produit 25-30 hl/ha et, récolté fin septembre, il donne des vins à 12,5°, avec peu de couleur et au nez des arômes singuliers de fraises écrasées, même sur les millésimes de plus en plus chauds. C’est un cépage vraiment paradoxal qui, sur des coteaux chauds, donne des vins légers. Ça, je l’ai découvert en le vinifiant, car je n’avais jamais goûté de vin de ribeyrenc avant d’en faire._ »
+« _S’il poussait dans ces conditions, il pousserait ailleurs. Telle était ma réflexion, qui a été avisée, car**le ribeyrenc est un cépage qui s’épanouit dans la rusticité.** Il est tardif comme le mourvèdre, il produit 25-30 hl/ha et, récolté fin septembre, il donne des vins à 12,5°, avec peu de couleur et au nez des arômes singuliers de fraises écrasées, même sur les millésimes de plus en plus chauds. C’est un cépage vraiment paradoxal qui, sur des coteaux chauds, donne des vins légers. Ça, je l’ai découvert en le vinifiant, car je n’avais jamais goûté de vin de ribeyrenc avant d’en faire._ »
 
 ### Viser la sélection
 
@@ -64,16 +64,16 @@ Ces cépages et d’autres qui n’étaient pas autorisés dans le cahier des ch
 « _Ces cépages patrimoniaux m’ont beaucoup apporté humainement. Grâce à eux, j’ai fait des rencontres formidables, même dans l’administration ! Laurent Mayoux, alors au Comité technique permanent de la sélection, a fait beaucoup pour inscrire le ribeyrenc dans ses trois couleurs_. »
 
 ![Le ribeyrenc donne des vins avec peu de couleur. Il développe  des arômes très identifiables de fraises écrasées. Ce cépage  existe aussi en blanc, que l’on retrouve au domaine en assemblage avec du grenache gris et de la clairette \(10 euros prix caveau\).](/assets/98fd6c5ef3ccd60044aab51d93591c1c.jpg)
+_© S.Favre/Média et Agriculture_
+
 
 Le ribeyrenc donne des vins avec peu de couleur. Il développe des arômes très identifiables de fraises écrasées. Ce cépage existe aussi en blanc, que l’on retrouve au domaine en assemblage avec du grenache gris et de la clairette (10 euros prix caveau).
-
-_© S.Favre/Média et Agriculture_
 
 ### Moins d’eau et pourtant plus de maladies
 
 Dans sa quête, tous les essais ne sont pas si concluants.
 
-« ** _Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons_** , estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
+« ** _Tous les cépages anciens ne sont pas bons et il n’y a pas que les cépages anciens qui sont bons_ ** , estime Thierry Navarre. _Le morastell noir à jus blanc amène de l’acidité et de la rudesse. C’est un bon cépage secondaire, mais seul il est imbuvable. 500 pieds me suffisent. Je renouvelle désormais à moitié avec les cépages locaux et à moitié avec les cépages de saint-chinian, en laissant de côté le mourvèdre qui, sur mes terroirs, présente des blocages de maturité de plus en plus fréquents_. »
 
 Car si le vigneron s’est orienté vers des variétés qui révèlent **une bonne tolérance à la sécheresse,** il n’en reste pas moins, lui aussi, **soumis au changement climatique.**
 
@@ -103,5 +103,6 @@ Localement, certains cépages modestes retrouvent des couleurs par la volonté d
 
 Si vous êtes intéressés par ce thème, sachez que l’association Rencontres des cépages modestes organise chaque année un événement dans l’Aveyron. Le prochain est prévu les 5 et 6 novembre 2022.
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/les-cepages-locaux-du-languedoc-un-des-leviers-pour-contrer-le-rechauffement-climatique-886270.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/les-cepages-locaux-du-languedoc-un-des-leviers-pour-contrer-le-rechauffement-climatique-886270.php)
