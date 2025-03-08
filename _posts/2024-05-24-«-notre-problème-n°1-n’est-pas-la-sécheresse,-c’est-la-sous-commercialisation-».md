@@ -41,10 +41,10 @@ Dans un avenir proche, on pourrait descendre à 700-800 ha. Chaque année, il y 
 Notre plan de relocalisation du vignoble intègre cette donnée. Un travail avec le SDIS66 va être mis en place afin d’implanter du vignoble sur les secteurs les plus à risque et les plus stratégiques pour un rôle coupe-feu.
 
 ![](/assets/93216e381436b495fe825eb27dadd583.jpg)
+_© ODG Banyuls Collioure_
 
 Un tiers du vignoble est dans des pentes supérieures à 50%. Sur les coteaux sont produits des vins secs en AOC Collioure et des vins doux en AOC Banyuls. 
 
-_© ODG Banyuls Collioure_
 
 **Le vrac représente un quart des volumes totaux mis en marché et les 2/3 de toute la marge négative du vignoble. Le rosé aussi est élaboré à perte. Faut-il continuer ?**
 
@@ -65,10 +65,10 @@ Nos ventes se réalisent au 2/3 localement en vente directe ce qui est bien sûr
 Elle doit aussi permettre une meilleure valorisation de nos vins sur les marchés traditionnels France et export qui sont globalement déficitaires.
 
 ![](/assets/f11fe66d692f00a012156d62d6295fe7.jpg)
+_© ODG Banyuls-Collioure_
 
 Romuald Peronne est le président de l'ODG Banuyls-Collioure 
 
-_© ODG Banyuls-Collioure_
 
 **Les consommateurs et les acheteurs seront-ils prêts à accepter cette hausse substantielle ?**
 
