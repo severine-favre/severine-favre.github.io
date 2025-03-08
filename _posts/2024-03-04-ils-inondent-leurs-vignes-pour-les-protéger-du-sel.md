@@ -77,5 +77,6 @@ _© Séverine Favre_
 
 **> >> À lire aussi : [Quand le sel ronge les vignes](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quand-le-sel-ronge-les-vignes-853734.php) de l'Orb**
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/ils-inondent-leurs-vignes-pour-les-proteger-du-sel-892543.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/ils-inondent-leurs-vignes-pour-les-proteger-du-sel-892543.php)

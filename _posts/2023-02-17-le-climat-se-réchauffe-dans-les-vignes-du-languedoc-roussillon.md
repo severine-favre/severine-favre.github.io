@@ -52,5 +52,6 @@ Le réchauffement est mesurable sur toutes les saisons, notamment au printemps e
 Par ailleurs, en un peu plus de 50 ans, le nombre de jours par an où les températures dépassent les 25°C a été multiplié par 1,5 à 1,7. Cela représente 29 jours en plus à Villenave d’Ornon (Gironde) ou à Saintes (Charente-Maritime).  
 En revanche, les tendances annuelles sur la pluviométrie sont peu marquées. Néanmoins, faute d’un accroissement du cumul de pluie, l’augmentation de la température favorise l’augmentation de phénomènes comme la sécheresse et le déficit en eau dans le sol, essentiellement par effet d’évaporation.
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/le-climat-se-rechauffe-dans-les-vignes-du-languedoc-roussillon-851544.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/le-climat-se-rechauffe-dans-les-vignes-du-languedoc-roussillon-851544.php)

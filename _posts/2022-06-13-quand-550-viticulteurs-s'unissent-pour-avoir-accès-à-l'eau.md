@@ -81,5 +81,6 @@ _© DR_
 Viti Leaders, n°469, mai 2022.
 
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quand-550-viticulteurs-sunissent-pour-avoir-acces-a-leau-886283.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quand-550-viticulteurs-sunissent-pour-avoir-acces-a-leau-886283.php)

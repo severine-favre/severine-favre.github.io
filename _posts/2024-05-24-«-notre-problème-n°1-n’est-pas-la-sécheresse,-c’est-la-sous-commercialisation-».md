@@ -103,4 +103,6 @@ Sans irrigation, sans mécanisation, avec deux traitements fongicides par campag
 **Séverine Favre**
 
 
+----
+
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/entretien/notre-probleme-n1-nest-pas-la-secheresse-cest-la-sous-commercialisation-905905.php](https://www.tema-agriculture-terroirs.fr/mon-viti/entretien/notre-probleme-n1-nest-pas-la-secheresse-cest-la-sous-commercialisation-905905.php)

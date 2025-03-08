@@ -69,5 +69,6 @@ La commercialisation vrac, quant à elle, est encore complexe. _« Les négocian
 
 Le domaine de l’Isle Saint-Pierre est équipé pour l’expérimentation de nouvelles variétés résistantes. Un petit pressoir pneumatique de 12 hl a été acheté, comme des cuves de 35 et 45 hl. _« Je plante minimum 0,5 ha par variété. Il me faut assez de raisin pour remplir la machine à vendanger, le pressoir, des cuves entières. Je veux pouvoir réaliser des microvinifications tests avec des itinéraires similaires à ceux que je fais sur des variétés installées »_ , explique Julien Henry.
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/on-peut-faire-du-bon-vin-avec-certaines-varietes-resistantes-918937.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/on-peut-faire-du-bon-vin-avec-certaines-varietes-resistantes-918937.php)

@@ -30,5 +30,6 @@ Pour piloter à distance et automatiquement les ombrières et améliorer les alg
 
 **Déployés, les panneaux coulissants génèrent de l’électricité** revendue à EDF par le troisième partenaire du projet : Total Energies. Le groupe est aussi copropriétaire avec Ombrea de l’équipement. Il verse un loyer au viticulteur qui met à disposition une partie de ses terres et s’engage à garder la parcelle couverte en culture pendant trente ans. _« L’investissement est de 2 à 3 millions pour un hectare équipé. D'autres projets devraient bientôt émerger en Occitanie à la demande de producteurs. Confrontés aux conséquences du réchauffement climatique qui mettent à mal leurs productions, des agriculteurs e_ _nvisagent la protection par les ombrières comme**une solution pour maintenir leurs activités historiques avec une rentabilité améliorée** ou pour se diversifier_ _»_ _, c_ onclut Nicolas Ferras, responsable du pôle agricole pour Total Energies renouvelables France.
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/ma-derniere-plantation-de-vigne-est-protegee-par-des-ombrieres-851623.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/ma-derniere-plantation-de-vigne-est-protegee-par-des-ombrieres-851623.php)

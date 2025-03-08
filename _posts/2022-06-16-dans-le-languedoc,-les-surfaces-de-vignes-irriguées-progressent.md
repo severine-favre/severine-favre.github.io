@@ -43,5 +43,6 @@ Article paru dans Viti Leaders de mai 2022
 
 ![](/assets/4b348dca2c7b94f22528d20dfa203969.png)
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/dans-le-languedoc-les-surfaces-de-vignes-irriguees-progressent-851709.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/dans-le-languedoc-les-surfaces-de-vignes-irriguees-progressent-851709.php)

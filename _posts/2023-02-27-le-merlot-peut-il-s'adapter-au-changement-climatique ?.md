@@ -49,5 +49,6 @@ Pour ce qui est des vins, le comportement du merlot se révèle moyen tant sur l
 
 Le merlot n’a pas dit son dernier mot !
 
+----
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/le-merlot-peut-il-sadapter-au-changement-climatique-851540.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/le-merlot-peut-il-sadapter-au-changement-climatique-851540.php)
