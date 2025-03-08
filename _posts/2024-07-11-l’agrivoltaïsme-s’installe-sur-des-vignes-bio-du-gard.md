@@ -35,6 +35,6 @@ Les 6.544 panneaux solaires de la centrale agrivoltaïque permettront de produir
 
 **Séverine Favre**
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lagrivoltaisme-sinstalle-sur-des-vignes-bio-du-gard-914978.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/lagrivoltaisme-sinstalle-sur-des-vignes-bio-du-gard-914978.php)

@@ -314,7 +314,7 @@ def main():
 
             markdown_post = insert_excerpt_separator(markdown_post)
 
-            markdown_post += f"\n\n----\nPublication originale: [{url}]({url})\n"
+            markdown_post += f"\n\n---\nPublication originale: [{url}]({url})\n"
             
             # Write the Markdown post to the specified target directory with the correct filename
             # print(markdown_post)

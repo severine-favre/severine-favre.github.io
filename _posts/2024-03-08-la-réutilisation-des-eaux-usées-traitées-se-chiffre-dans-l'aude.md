@@ -64,6 +64,6 @@ Sur le domaine du Château de Villeroy, situé à Sète, entre l’étang de Tha
 
 Le projet pourrait être effectif en 2024. L’eau traitée serait utilisée à deux périodes de l’année : en période végétative pour soutenir le développement de la vigne et en période hivernale afin de [lessiver, par immersion, le sel accumulé](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/ils-inondent-leurs-vignes-pour-les-proteger-du-sel-892543.php) pendant l’année dans les sols sableux de la propriété.
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-reutilisation-deaux-usees-traitees-se-chiffre-dans-laude-894857.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-reutilisation-deaux-usees-traitees-se-chiffre-dans-laude-894857.php)

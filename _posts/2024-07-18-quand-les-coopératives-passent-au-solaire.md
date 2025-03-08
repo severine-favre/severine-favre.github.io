@@ -59,6 +59,6 @@ D’un commun accord, les deux coopératives ont**privilégié des fournisseurs 
 
 **Séverine Favre**
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/vie-de-lentreprise/quand-les-cooperatives-passent-au-solaire-914947.php](https://www.tema-agriculture-terroirs.fr/mon-viti/vie-de-lentreprise/quand-les-cooperatives-passent-au-solaire-914947.php)

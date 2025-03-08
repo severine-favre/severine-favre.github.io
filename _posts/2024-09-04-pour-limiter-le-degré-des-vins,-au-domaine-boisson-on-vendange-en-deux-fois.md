@@ -52,6 +52,6 @@ L’adaptation au changement climatique du Domaine Boisson passe aussi par une r
 
 [**La pulvérisation d'argile blanche peut limiter l'échaudage**](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/la-pulverisation-dargile-blanche-peut-limiter-lechaudage-908569.php)
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/oenologie/vendanger-en-deux-fois-pour-limiter-le-degre-des-vins-919027.php](https://www.tema-agriculture-terroirs.fr/mon-viti/oenologie/vendanger-en-deux-fois-pour-limiter-le-degre-des-vins-919027.php)

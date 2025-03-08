@@ -79,6 +79,6 @@ Article paru dans Viti Leaders n°465 de novembre-décembre 2021
 
 ![](/assets/b180d25c21d6fb61d5afec32b9610487.png)
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quest-ce-que-la-viticulture-regenerative-851877.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/quest-ce-que-la-viticulture-regenerative-851877.php)

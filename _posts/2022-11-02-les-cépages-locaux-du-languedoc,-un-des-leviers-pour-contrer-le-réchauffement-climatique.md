@@ -103,6 +103,6 @@ Localement, certains cépages modestes retrouvent des couleurs par la volonté d
 
 Si vous êtes intéressés par ce thème, sachez que l’association Rencontres des cépages modestes organise chaque année un événement dans l’Aveyron. Le prochain est prévu les 5 et 6 novembre 2022.
 
-----
+---
 
 Publication originale: [https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/les-cepages-locaux-du-languedoc-un-des-leviers-pour-contrer-le-rechauffement-climatique-886270.php](https://www.tema-agriculture-terroirs.fr/mon-viti/viticulture/les-cepages-locaux-du-languedoc-un-des-leviers-pour-contrer-le-rechauffement-climatique-886270.php)
