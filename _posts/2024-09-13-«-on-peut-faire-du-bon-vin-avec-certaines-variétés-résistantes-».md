@@ -2,6 +2,7 @@
 author: Séverine Favre
 date: '2024-09-13'
 layout: post
+pinned: true
 tags:
 - Variété résistante
 - Flavescence dorée
