@@ -6,7 +6,7 @@ title: Homepage
 <h1>Sélection d'articles</h1>
 
 <ul>
-  {% assign pinned = site.posts | where_exp:"item", "item.pinned == true" %}	
+  {% assign pinned = site.posts | where: "pinned", true %}	
 
   {% for post in pinned %}
     <li>
@@ -15,7 +15,7 @@ title: Homepage
     </li>
   {% endfor %}
 
-  {% assign unpinned = site.posts | where_exp:"item", "item.pinned == nil or item.pinned == false" %}	
+  {% assign unpinned = site.posts | where: "pinned", nil %}	
   {% for post in unpinned %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
