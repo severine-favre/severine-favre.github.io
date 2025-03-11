@@ -8,6 +8,7 @@ tags:
 - Eau
 - Hérault
 - Association
+pinned: true
 title: Quand 550 viticulteurs s'unissent pour avoir accès à l'eau
 excerpt_separator: <!--more-->
 ---
