@@ -44,13 +44,13 @@ Par ailleurs, précisent les auteurs de l’étude Oracle : «  _Il s’agit de 
 
 Les évolutions climatiques constatées par l’étude Oracle ont des conséquences sur la physiologie de la plante et cela peut se répercuter sur le rendement. Globalement, sur la région Languedoc-Roussillon, le rendement les vins AOC a baissé de 5,7 hl/ha en 21 ans et de 3,8 hl/ha en IGP sur les 12 dernières années. Le rendement des vins sans IG a quant à lui augmenté «  _grâce aux progrès techniques et génétiques, à [l’irrigation](/articles/viticulture/dans-le-languedoc-les-surfaces-de-vignes-irriguees-progressent) et à la restructuration du vignoble_ », avancent les rapporteurs.
 
-En Nouvelle-Aquitaine : un climat plus chaud sur toutes les saisons  
-L’évolution des températures moyennes annuelles en Nouvelle-Aquitaine montre un net réchauffement depuis 1959. Sur la période 1959-2009, la tendance observée sur les températures moyennes annuelles se situe entre +0,2 °C et +0,3 °C par décennie.  
-Mais depuis le milieu des années 1980, le réchauffement s’est accentué, avec une augmentation supérieure à 0,3°C par décennie. Les trois années les plus chaudes depuis 1959 qui sont 2003, 2011 et 2014, ont été observées au XXIe siècle.  
-Une mise à jour de l’étude Oracle publiée en 2020, d’où sont issues ces données, rajouterait très certainement l’année 2022 à cette liste. Sur les huit premiers mois de l’année, les températures ont dépassé de 1 à 3 degrés les normales de saison.  
-Le réchauffement est mesurable sur toutes les saisons, notamment au printemps et en été avec une hausse de +0,4°C par décennie sur la période 1959-2009.  
-Par ailleurs, en un peu plus de 50 ans, le nombre de jours par an où les températures dépassent les 25°C a été multiplié par 1,5 à 1,7. Cela représente 29 jours en plus à Villenave d’Ornon (Gironde) ou à Saintes (Charente-Maritime).  
-En revanche, les tendances annuelles sur la pluviométrie sont peu marquées. Néanmoins, faute d’un accroissement du cumul de pluie, l’augmentation de la température favorise l’augmentation de phénomènes comme la sécheresse et le déficit en eau dans le sol, essentiellement par effet d’évaporation.
+<!-- En Nouvelle-Aquitaine : un climat plus chaud sur toutes les saisons   -->
+<!-- L’évolution des températures moyennes annuelles en Nouvelle-Aquitaine montre un net réchauffement depuis 1959. Sur la période 1959-2009, la tendance observée sur les températures moyennes annuelles se situe entre +0,2 °C et +0,3 °C par décennie.   -->
+<!-- Mais depuis le milieu des années 1980, le réchauffement s’est accentué, avec une augmentation supérieure à 0,3°C par décennie. Les trois années les plus chaudes depuis 1959 qui sont 2003, 2011 et 2014, ont été observées au XXIe siècle.   -->
+<!-- Une mise à jour de l’étude Oracle publiée en 2020, d’où sont issues ces données, rajouterait très certainement l’année 2022 à cette liste. Sur les huit premiers mois de l’année, les températures ont dépassé de 1 à 3 degrés les normales de saison.   -->
+<!-- Le réchauffement est mesurable sur toutes les saisons, notamment au printemps et en été avec une hausse de +0,4°C par décennie sur la période 1959-2009.   -->
+<!-- Par ailleurs, en un peu plus de 50 ans, le nombre de jours par an où les températures dépassent les 25°C a été multiplié par 1,5 à 1,7. Cela représente 29 jours en plus à Villenave d’Ornon (Gironde) ou à Saintes (Charente-Maritime).   -->
+<!-- En revanche, les tendances annuelles sur la pluviométrie sont peu marquées. Néanmoins, faute d’un accroissement du cumul de pluie, l’augmentation de la température favorise l’augmentation de phénomènes comme la sécheresse et le déficit en eau dans le sol, essentiellement par effet d’évaporation. -->
 
 ---
 
