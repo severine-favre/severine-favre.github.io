@@ -15,7 +15,7 @@ title: Homepage
     </li>
   {% endfor %}
 
-  {% assign unpinned = site.posts | where: "pinned", false %}	
+  {% assign unpinned = site.posts | where_exp: "item", "item != true" %}	
   {% for post in unpinned %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
