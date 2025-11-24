@@ -2,6 +2,7 @@
 author: Séverine Favre
 date: '2024-07-18'
 layout: post
+pinned: true
 tags:
 - Énergie renouvelable
 - Languedoc-Roussillon
