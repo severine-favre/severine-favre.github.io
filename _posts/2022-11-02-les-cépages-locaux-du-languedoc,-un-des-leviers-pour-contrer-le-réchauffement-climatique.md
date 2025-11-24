@@ -2,7 +2,6 @@
 author: Séverine Favre
 date: '2022-11-02'
 layout: post
-pinned: true
 tags:
 - Changement climatique
 - Irrigation
