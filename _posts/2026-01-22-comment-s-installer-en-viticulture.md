@@ -11,6 +11,12 @@ excerpt_separator: <!--more-->
 ![](/assets/fda732971975b7959f993a5b5e862bce.webp)
 <!--more-->
 
+
+<h2>Sommaire</h2>
+
+* Sommaire
+{:toc}
+
 ## S'installer en viticulture, le parcours du combattant ?
 
 ### Environ 1300 personnes par an réussissent à s’installer en viticulture
@@ -35,7 +41,7 @@ Avec la dématérialisation des procédures administratives, il est désormais i
 
 ### Le Point Accueil Installation est un service gratuit
 
-**Les Points Accueil Installation** de chaque département sont de bonnes portes d’entrée lorsque l’on souhaite s’**installer en viticulture**. Ce service gratuit est accessible à tous les futurs installés, quel que soit leur âge et le niveau d’avancement de leur projet. Contrairement à une idée reçue, les conseillers des **Point Accueil Installation** ne sont pas uniquement là pour les installations aidées (1). Un porteur de projet qui ne sollicitera ni [dotation jeune agriculteur](https://chambres-agriculture.fr/je-suis-futur-agriculteur/construire-son-projet-dinstallation/financement) (DJA), ni dotation nouvel agriculteur (DNA) peut prendre rendez-vous, recevoir des conseils individualisés et être guidé dans les démarches administratives à effectuer.
+**Les Points Accueil Installation** de chaque département sont de bonnes portes d’entrée lorsque l’on souhaite s’**installer en viticulture**. Ce service gratuit est accessible à tous les futurs installés, quel que soit leur âge et le niveau d’avancement de leur projet. Contrairement à une idée reçue, les conseillers des **Point Accueil Installation** ne sont pas uniquement là pour les installations aidées[^1]. Un porteur de projet qui ne sollicitera ni [dotation jeune agriculteur](https://chambres-agriculture.fr/je-suis-futur-agriculteur/construire-son-projet-dinstallation/financement) (DJA), ni dotation nouvel agriculteur (DNA) peut prendre rendez-vous, recevoir des conseils individualisés et être guidé dans les démarches administratives à effectuer.
 
 Lire aussi : [Les repreneurs d’exploitations viticoles se diversifient](https://www.reussir.fr/vigne/les-repreneurs-dexploitations-viticoles-se-diversifient?utm_source=article&utm_medium=body&utm_campaign=3c9dcf8b-be6c-411d-bd7d-f46e5ce94917)
 
@@ -75,7 +81,7 @@ Dans le cas où le projet d’installation nécessite une demande d’autorisati
 
 « *Il est recommandé de confier la rédaction des statuts à un professionnel comme un juriste, un notaire ou un avocat*, indique Solenne Labbé, juriste au sein du CGO, une association de gestion et de comptabilité implantée en Nouvelle-Aquitaine. Une fois les statuts rédigés et adoptés, [une annonce légale d’avis de création](https://entreprendre.service-public.gouv.fr/vosdroits/F35957) de société doit, dans certains cas, être publiée[dans un support habilité](https://entreprendre.service-public.gouv.fr/vosdroits/R44934) ». [Le prix des annonces légales est fixé](https://www.service-public.gouv.fr/simulateur/calcul/tarifsAnnoncesLegales) par les pouvoirs publics. Comptez 264 euros pour la création d’une EARL ou d’une SCEA. Pour un Gaec, l’annonce n’est pas obligatoire.
 
-Lorsque le dossier d’**autorisation d’exploiter** est constitué, la liasse documentaire est alors à transmettre par courrier avec accusé de réception ou par téléprocédure (2) à la DDT de son département. S’il n’y a pas de concurrence sur les terres à exploiter, le délai d'instruction par la DDT est de 4 mois et court à compter de la date de notification de la complétude du dossier. L'absence de réponse après ce délai vaut acceptation de la demande.
+Lorsque le dossier d’**autorisation d’exploiter** est constitué, la liasse documentaire est alors à transmettre par courrier avec accusé de réception ou par téléprocédure[^2] à la DDT de son département. S’il n’y a pas de concurrence sur les terres à exploiter, le délai d'instruction par la DDT est de 4 mois et court à compter de la date de notification de la complétude du dossier. L'absence de réponse après ce délai vaut acceptation de la demande.
 
 Lire aussi : [« Je me suis installée en viticulture en profitant d’un stage de parrainage financé par la région »](https://www.reussir.fr/vigne/je-me-suis-installee-en-viticulture-en-profitant-dun-stage-de-parrainage-finance-par-la-region?utm_source=article&utm_medium=body&utm_campaign=3c9dcf8b-be6c-411d-bd7d-f46e5ce94917)
 
@@ -255,7 +261,8 @@ Enfin, si vous n’avez pas le [**Certiphyto**](https://www.reussir.fr/vigne/cer
 *   ...
 
 
+## Notes 
 
-1.  Les modalités par région de l'aide jeune agriculteur et de l'aide nouvel agriculteur sont précisées sur le site de la Chambre d’agriculture France, rubrique [« Aides à l’installation »](https://chambres-agriculture.fr/je-suis-futur-agriculteur)
+[^1]:  Les modalités par région de l'aide jeune agriculteur et de l'aide nouvel agriculteur sont précisées sur le site de la Chambre d’agriculture France, rubrique [« Aides à l’installation »](https://chambres-agriculture.fr/je-suis-futur-agriculteur)
 
-2.  Toutes les DDT n’ont pas de service de téléprocédure
+[^2]:  Toutes les DDT n’ont pas de service de téléprocédure
