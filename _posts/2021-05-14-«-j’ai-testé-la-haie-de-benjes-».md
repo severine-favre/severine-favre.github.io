@@ -2,9 +2,11 @@
 author: Séverine Favre
 date: '2021-05-14'
 layout: post
-tags: []
+tags: 
+  - Haie
 title: « J’ai testé la haie de Benjes »
 excerpt_separator: <!--more-->
+pinned: true
 ---
 
 Michel Maestrojuan teste sur son domaine vitcole gersois l'implantation de haie de Benjes, autrement appelée « une haie morte ». Elle est constituée de grandes branches d’arbre empilées et stabilisées par des pieux.
