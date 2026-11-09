@@ -1,5 +1,5 @@
 
-name: Deploy WordCraft 0.16.0
+name: Deploy GitHub Pages + WordCraft 0.16.0
 
 on:
   workflow_dispatch:
@@ -22,14 +22,28 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      - name: Checkout website
+        uses: actions/checkout@v4
+
       - name: Download WordCraft 0.16.0
         run: |
           curl -fL \
             https://github.com/storytold/wordcraft/releases/download/v0.16.0/wordcraft-web-0.16.0.zip \
             -o wordcraft.zip
 
-      - name: Extract WordCraft
+      - name: Prepare Pages directory
         run: |
+          mkdir -p _site
+
+          # Copy existing website
+          rsync -a \
+            --exclude='.git' \
+            --exclude='.github' \
+            --exclude='_site' \
+            --exclude='wordcraft.zip' \
+            ./ _site/
+
+          # Install WordCraft alongside it
           mkdir -p _site/wordcraft
           unzip -q wordcraft.zip -d _site/wordcraft
 
@@ -46,3 +60,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        
